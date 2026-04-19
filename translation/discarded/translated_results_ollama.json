@@ -1,0 +1,1262 @@
+[
+    {
+        "synset_turkish": "gözünü çıkarmak",
+        "definition_turkish": "iyisi dururken en kötüsünü seçmek",
+        "synset_english": "to pick the worst when the best is available",
+        "definition_english": "to choose the worst option when a better one exists"
+    },
+    {
+        "synset_turkish": "uçara atmak",
+        "definition_turkish": "uçmakta olan kuşu vurmaya çalışmak",
+        "synset_english": "to try to shoot a bird in flight",
+        "definition_english": "to attempt to hit a bird while it's flying"
+    },
+    {
+        "synset_turkish": "cahillik etmek",
+        "definition_turkish": "Gençlik, toyluk, deneysizlik yüzünden kusur işleme",
+        "synset_english": "to commit faults due to youth, festivity, and experimentation",
+        "definition_english": "to make mistakes because of youth, celebration, and lack of experience"
+    },
+    {
+        "synset_turkish": "kuyruğa girmek",
+        "definition_turkish": "ayakta arka arkaya durulan diziye girmek",
+        "synset_english": "to enter a line standing shoulder to shoulder",
+        "definition_english": "to join a line of people standing closely together"
+    },
+    {
+        "synset_turkish": "laçka etmek",
+        "definition_turkish": "bir halatı koyuverip boşaltmak",
+        "synset_english": "to pull and empty a rope",
+        "definition_english": "to pull a rope through a loop and then release it"
+    },
+    {
+        "synset_turkish": "makine çekmek",
+        "definition_turkish": "dikiş makinesinde dikmek",
+        "synset_english": "to sew on a sewing machine",
+        "definition_english": "to stitch fabric using a sewing machine"
+    },
+    {
+        "synset_turkish": "mal kapatmak",
+        "definition_turkish": "para karşılığında herhangi bir üretim alanındaki verimin sırf kendisine ayrılmasını sağlamak",
+        "synset_english": "to ensure that a portion of the output of any production area is allocated solely to oneself for payment",
+        "definition_english": "to secure a share of the output of a production area in exchange for payment"
+    },
+    {
+        "synset_turkish": "mantık yürütmek usa vurmak muhakeme etmek uslamlamak",
+        "definition_turkish": "Bir konuyu zihinde iyice düşünüp inceleyerek karar vermek",
+        "synset_english": "to make a decision by thoroughly thinking and examining a subject",
+        "definition_english": "to arrive at a decision after careful consideration and reflection"
+    },
+    {
+        "synset_turkish": "manzara koymak",
+        "definition_turkish": "televizyon yayını sırasında beklenmeyen kesinti aralarını doldurmak için ekrana değişik manzara resimlerini getirip göstermek",
+        "synset_english": "to display different landscape pictures on the screen to fill in unexpected interruptions during television broadcasts",
+        "definition_english": "to show different images of scenery to cover up technical glitches during television broadcasts"
+    },
+    {
+        "synset_turkish": "hem isa'yı hem de musa'yı memnun etmek",
+        "definition_turkish": "istekleri birbirine karşıt olan iki kişiyi birden hoşnut edecek bir davranışta bulunmak",
+        "synset_english": "to behave in a way that pleases two people with opposing desires",
+        "definition_english": "to act in a way that satisfies two people with conflicting interests"
+    },
+    {
+        "synset_turkish": "el kapısına düşmek",
+        "definition_turkish": "yabancıya muhtaç olmak",
+        "synset_english": "to become dependent on a stranger",
+        "definition_english": "to rely on a stranger for help"
+    },
+    {
+        "synset_turkish": "nakzen görmek",
+        "definition_turkish": "Yargıtay tarafından bozulan bir karar üzerine bozma sebeplerini de göz önünde tutarak davaya yeniden",
+        "synset_english": "to re-file a case considering the reasons for appeal after a decision has been overturned by the Court of Cassation",
+        "definition_english": "to re-argue a case taking into account the grounds for appeal after the decision has been overturned by the highest court"
+    },
+    {
+        "synset_turkish": "başına talih kuşu konmak başına devlet kuşu konmak",
+        "definition_turkish": "beklemediği büyük bir nimete sahip olmak",
+        "synset_english": "to unexpectedly come into a great fortune",
+        "definition_english": "to suddenly find oneself in a fortunate situation"
+    },
+    {
+        "synset_turkish": "kısmetini ayağıyla tepmek nimeti ayağıyla tepmek",
+        "definition_turkish": "kavuşacağı iyi bir durumu, değerini bilmeyerek istememek",
+        "synset_english": "to refuse to take advantage of a good situation, not realizing its value",
+        "definition_english": "to reject a fortunate opportunity because you don't appreciate its worth"
+    },
+    {
+        "synset_turkish": "çiğ çiğ yemek",
+        "definition_turkish": "bir kimseye parça parça edecek derecede öfke duymak",
+        "synset_english": "to feel increasingly angry with someone, bit by bit",
+        "definition_english": "to gradually become more and more angry with someone"
+    },
+    {
+        "synset_turkish": "kanına girmek",
+        "definition_turkish": "birini öldürmek veya öldürtmek",
+        "synset_english": "to kill or have someone killed",
+        "definition_english": "to commit murder"
+    },
+    {
+        "synset_turkish": "iti ite kırdırmak",
+        "definition_turkish": "kötülüğü kötülük aracılığıyla ortadan kaldırmak",
+        "synset_english": "to eliminate evil by using evil itself",
+        "definition_english": "to combat evil with evil"
+    },
+    {
+        "synset_turkish": "davul çalmak davul dövmek",
+        "definition_turkish": "bir şeyi herkesin haber alabileceği biçimde ortalığa yaymak",
+        "synset_english": "to spread something widely so that everyone hears about it",
+        "definition_english": "to make something known to everyone"
+    },
+    {
+        "synset_turkish": "fişek atmak",
+        "definition_turkish": "ortalığı karıştıracak bir söz söylemek",
+        "synset_english": "to say something that will cause chaos",
+        "definition_english": "to utter a provocative or disruptive statement"
+    },
+    {
+        "synset_turkish": "etten önce çömleğe düşmek",
+        "definition_turkish": "bir işte bilgisiz veya yetkisiz olmasına rağmen herkesten önce ortaya atılmak",
+        "synset_english": "to be promoted to a position before having the knowledge or authority",
+        "definition_english": "to take a position before being qualified"
+    },
+    {
+        "synset_turkish": "gözü yolda kalmak gözü yollarda kalmak gözü yolda olmak gözü yollarda olmak",
+        "definition_turkish": "birinin gelmesini merak, istek veya özlemle beklemek",
+        "synset_english": "to wait with anticipation, longing, or desire for someone's arrival",
+        "definition_english": "to anxiously await someone's return"
+    },
+    {
+        "synset_turkish": "girecek delik aramak",
+        "definition_turkish": "saklanmak istemek",
+        "synset_english": "to seek a hiding place",
+        "definition_english": "to want to conceal oneself"
+    },
+    {
+        "synset_turkish": "gözden uzaklaşmak",
+        "definition_turkish": "ayrılıp başka yere gitmek, görünmez olmak",
+        "synset_english": "to depart and become invisible",
+        "definition_english": "to leave and disappear"
+    },
+    {
+        "synset_turkish": "çemberi yarmak",
+        "definition_turkish": "bir veya birkaç noktayı delerek kuşatmadan kurtulmak",
+        "synset_english": "to break out of a siege by creating breaches",
+        "definition_english": "to escape a siege by creating openings"
+    },
+    {
+        "synset_turkish": "bir çekirdek geri kalmamak",
+        "definition_turkish": "bütünüyle denk olmak",
+        "synset_english": "to be completely equal",
+        "definition_english": "to be perfectly balanced"
+    },
+    {
+        "synset_turkish": "yana çıkmak",
+        "definition_turkish": "birinin yanlısı olmak, birini tutmak",
+        "synset_english": "to side with someone, to support someone",
+        "definition_english": "to take a particular stance"
+    },
+    {
+        "synset_turkish": "transit geçmek",
+        "definition_turkish": "bir yerden, dinlenmeden, beklemeden, durmadan geçmek",
+        "synset_english": "to pass through a place without stopping or resting",
+        "definition_english": "to move quickly through a location"
+    },
+    {
+        "synset_turkish": "içecek suyu olmak",
+        "definition_turkish": "o yere gitmesi kısmet olmak",
+        "synset_english": "to be destined to go to that place",
+        "definition_english": "to be fated to visit that location"
+    },
+    {
+        "synset_turkish": "gocunmak",
+        "definition_turkish": "Çekinmek, kaçınmak",
+        "synset_english": "to recoil, to flee",
+        "definition_english": "to shy away from something"
+    },
+    {
+        "synset_turkish": "cakasından geçilmemek cafcafından geçilmemek",
+        "definition_turkish": "Her zaman ve her yerde gösteriş yapmak",
+        "synset_english": "to always show off, to flaunt oneself",
+        "definition_english": "to habitually display one's wealth or status"
+    },
+    {
+        "synset_turkish": "paçayı kaptırmak",
+        "definition_turkish": "karıştığı ancak sonradan ayrılmak istediği bir işten kendini kurtaramamak",
+        "synset_english": "to get oneself out of a job one has gotten involved in, but later wants to leave",
+        "definition_english": "to be unable to escape a job one has gotten involved in, even after wanting to leave."
+    },
+    {
+        "synset_turkish": "hesap sormak",
+        "definition_turkish": "birini, birilerini yöntem veya yasa dışı davranışlarından dolayı sorguya çekmek",
+        "synset_english": "to question someone for methods or illegal behavior",
+        "definition_english": "to interrogate someone for methods or illegal behavior."
+    },
+    {
+        "synset_turkish": "yüzünün akı ile çıkmak yüz akı ile çıkmak",
+        "definition_turkish": "bir işi kendi saygınlığını yitirmeden eksiksiz ve başarılı olarak yapıp bitirmek",
+        "synset_english": "to complete a task with dignity and success without losing one's reputation",
+        "definition_english": "to complete a task with dignity and success without losing one's reputation."
+    },
+    {
+        "synset_turkish": "gelip geçmek",
+        "definition_turkish": "bir yerden geçmek",
+        "synset_english": "to pass by a place",
+        "definition_english": "to pass by a place."
+    },
+    {
+        "synset_turkish": "can kalmamak",
+        "definition_turkish": "bitkin bir duruma gelmek",
+        "synset_english": "to feel exhausted",
+        "definition_english": "to become exhausted."
+    },
+    {
+        "synset_turkish": "eziklik duymak",
+        "definition_turkish": "kendini mahcup hissetmek",
+        "synset_english": "to feel humiliated",
+        "definition_english": "to feel humiliated."
+    },
+    {
+        "synset_turkish": "açık düşmek",
+        "definition_turkish": "herhangi bir sebeple bir filodan veya istenilen yerden uzakta kalmak",
+        "synset_english": "to be out of contact",
+        "definition_english": "to be out of contact."
+    },
+    {
+        "synset_turkish": "barut kokusu gelmek",
+        "definition_turkish": "savaş tehlikesi sezilmek",
+        "synset_english": "to sense a war danger",
+        "definition_english": "to sense a war danger."
+    },
+    {
+        "synset_turkish": "ayağını kesmek",
+        "definition_turkish": "bir yere gitmez olmak; uğramamak",
+        "synset_english": "not to go to a place; not to stop",
+        "definition_english": "not to go to a place; not to stop."
+    },
+    {
+        "synset_turkish": "basıp geçmek",
+        "definition_turkish": "önem vermeyerek uğramamak",
+        "synset_english": "to pass by without giving importance",
+        "definition_english": "to pass by without giving importance."
+    },
+    {
+        "synset_turkish": "elini ayağını kesmek elini eteğini çekmek eteğini çekmek",
+        "definition_turkish": "uğramaz olmak",
+        "synset_english": "not to stop",
+        "definition_english": "not to stop."
+    },
+    {
+        "synset_turkish": "aman dilemek",
+        "definition_turkish": "önce direnirken zor karşısında boyun eğip canının bağışlanmasını dilemek",
+        "synset_english": "to beg for mercy",
+        "definition_english": "to beg for mercy."
+    },
+    {
+        "synset_turkish": "çakmak",
+        "definition_turkish": "Anlamak; bilmek",
+        "synset_english": "to understand; to know",
+        "definition_english": "to understand; to know."
+    },
+    {
+        "synset_turkish": "dizginleri koparmak",
+        "definition_turkish": "her türlü bağ ve baskıdan kurtulmak",
+        "synset_english": "to break free from all bonds and constraints",
+        "definition_english": "to break free from all bonds and constraints."
+    },
+    {
+        "synset_turkish": "kaynağını almak",
+        "definition_turkish": "bir esasa veya desteğe dayandırmak",
+        "synset_english": "to derive from a basis or support",
+        "definition_english": "to derive from a basis or support."
+    },
+    {
+        "synset_turkish": "dili yanmak",
+        "definition_turkish": "bıkmak, nefret etmek",
+        "synset_english": "to become disgusted, to hate",
+        "definition_english": "to become disgusted, to hate."
+    },
+    {
+        "synset_turkish": "elini kolunu bağlamak",
+        "definition_turkish": "bir şey yapamayacak duruma getirmek",
+        "synset_english": "to render someone helpless",
+        "definition_english": "to render someone helpless."
+    },
+    {
+        "synset_turkish": "gözünü almak",
+        "definition_turkish": "şiddetli ışık sebebiyle gözü iyi göremez duruma getirmek",
+        "synset_english": "to impair someone's sight due to intense light",
+        "definition_english": "to impair someone's sight due to intense light."
+    },
+    {
+        "synset_turkish": "hapis kalmak",
+        "definition_turkish": "mahkûm olarak hapiste yatmak",
+        "synset_english": "to spend time in prison as a prisoner",
+        "definition_english": "to spend time in prison as a prisoner."
+    },
+    {
+        "synset_turkish": "hayır beklememek",
+        "definition_turkish": "iyilik ummamak, yararlı olacağını sanmamak",
+        "synset_english": "to not expect goodness, not to think it will be useful",
+        "definition_english": "to not expect goodness, not to think it will be useful."
+    },
+    {
+        "synset_turkish": "hevesini almak kürünü kırmak",
+        "definition_turkish": "istediği, imrendiği şeyi elde ederek ona doymak",
+        "synset_english": "to satisfy someone's desires after they have obtained what they wanted",
+        "definition_english": "to satisfy someone's desires after they have obtained what they wanted."
+    },
+    {
+        "synset_turkish": "etekleri zil çalmak etekleri ıslık çalmak etekleri çalpara çalmak",
+        "definition_turkish": "alınan sevinçli bir haber üzerine telaşa ve heyecana kapılmak",
+        "synset_english": "to be seized by excitement and panic upon receiving a joyful news",
+        "definition_english": "to be seized by excitement and panic upon receiving a joyful news."
+    },
+    {
+        "synset_turkish": "eli ayağı titremek",
+        "definition_turkish": "korku, sinir vb. sebeplerle heyecanlanmak",
+        "synset_english": "to become agitated due to fear, nervousness, etc.",
+        "definition_english": "to become agitated due to fear, nervousness, etc."
+    },
+    {
+        "synset_turkish": "canı ağzına gelmek canı boğazına gelmek",
+        "definition_turkish": "aşırı duygulanmak, çok heyecanlanmak",
+        "synset_english": "to be overwhelmed with emotion, to become very excited",
+        "definition_english": "to be overwhelmed with emotion, to become very excited."
+    },
+    {
+        "synset_turkish": "çılgına dönmek",
+        "definition_turkish": "sevinç, öfke, kızgınlık vb. duygular sonucu aşırı ölçüde heyecanlanmak",
+        "synset_english": "to become hysterical due to emotions such as joy, anger, or rage",
+        "definition_english": "to become hysterical due to emotions such as joy, anger, or rage."
+    },
+    {
+        "synset_turkish": "hoşlaşmak",
+        "definition_turkish": "İyilik hissetmek",
+        "synset_english": "to become friendly",
+        "definition_english": "to become friendly."
+    },
+    {
+        "synset_turkish": "ikrah getirmek",
+        "definition_turkish": "tiksinmeye, iğrenmeye başlamak",
+        "synset_english": "to start to disgust, to start to loathe",
+        "definition_english": "to start to disgust, to start to loathe."
+    },
+    {
+        "synset_turkish": "dünyadan el etek çekmek",
+        "definition_turkish": "bir kenara çekilip çevresiyle ilgisini kesmek, toplumun yaşayışına karışmamak, dünya işleriyle ilgilenmez olmak",
+        "synset_english": "to withdraw from the world, to stop participating in society's way of life, to not be interested in worldly affairs",
+        "definition_english": "to withdraw from the world, to stop participating in society's way of life, to not be interested in worldly affairs."
+    },
+    {
+        "synset_turkish": "eteğini çekmek",
+        "definition_turkish": "o şeyle ilgisini kesmek",
+        "synset_english": "to stop being interested in that thing",
+        "definition_english": "to stop being interested in that thing."
+    },
+    {
+        "synset_turkish": "doğru bildiği yoldan şaşmamak doğru bildiği yoldan ayrılmamak",
+        "definition_turkish": "Her ne olursa olsun inandığı ilkelere bağlı kalmak",
+        "synset_english": "to stick to one's beliefs no matter what",
+        "definition_english": "to stick to one's beliefs no matter what."
+    },
+    {
+        "synset_turkish": "başını kaldırmamak başını kaldıramamak",
+        "definition_turkish": "bir işi aralıksız sürdürmek",
+        "synset_english": "not to take one's head off",
+        "definition_english": "to continue a task without interruption"
+    },
+    {
+        "synset_turkish": "ayağını alamamak",
+        "definition_turkish": "alışılan bir yere gitmekten kendini alamamak",
+        "synset_english": "not being able to stop one's feet",
+        "definition_english": "to be unable to resist returning to a familiar place"
+    },
+    {
+        "synset_turkish": "kendini dev aynasında görmek",
+        "definition_turkish": "kendini olduğundan çok üstün görmek",
+        "synset_english": "to see oneself in a mirror",
+        "definition_english": "to see oneself as much superior to one's actual state"
+    },
+    {
+        "synset_turkish": "uzaklara gitmek",
+        "definition_turkish": "konudan ayrılmak",
+        "synset_english": "to look far away",
+        "definition_english": "to digress from the subject"
+    },
+    {
+        "synset_turkish": "himaye görmek",
+        "definition_turkish": "biri tarafından korunmak; kayırılmak; gözetilmek",
+        "synset_english": "to receive protection",
+        "definition_english": "to be protected; to be favored; to be watched over"
+    },
+    {
+        "synset_turkish": "burnunun direği kırılmak burnunun direği düşmek",
+        "definition_turkish": "çok pis bir koku duyarak tedirgin olmak",
+        "synset_english": "to have one's stick break out of one's nose",
+        "definition_english": "to be disturbed by a very foul odor"
+    },
+    {
+        "synset_turkish": "tasarruf etmek",
+        "definition_turkish": "bir malın sahibi olmak, onu istediği gibi kullanmak",
+        "synset_english": "to economize",
+        "definition_english": "to own a thing, to use it as one wishes"
+    },
+    {
+        "synset_turkish": "kendini sıyıramamak",
+        "definition_turkish": "kurtulamamak",
+        "synset_english": "to be unable to brush oneself",
+        "definition_english": "to be unable to get rid of something"
+    },
+    {
+        "synset_turkish": "makas almak makaslamak",
+        "definition_turkish": "yanağı orta parmak ile işaret parmağı arasına alıp sıkıştırmak",
+        "synset_english": "to take scissors, to clip",
+        "definition_english": "to press the corner of the cheek between the middle and index finger"
+    },
+    {
+        "synset_turkish": "safra atmak",
+        "definition_turkish": "insana veya araca fazla yük olan malzemeleri atmak",
+        "synset_english": "to discharge bile",
+        "definition_english": "to throw excessive loads onto a person or vehicle"
+    },
+    {
+        "synset_turkish": "hoşnutsuzluk getirmek",
+        "definition_turkish": "memnuniyetsizlik göstermek",
+        "synset_english": "to bring dissatisfaction",
+        "definition_english": "to show dissatisfaction"
+    },
+    {
+        "synset_turkish": "muaf kılmak muafiyet sağlamak muafiyet vermek",
+        "definition_turkish": "Bir ödevi, bir görevi bağışlamak, ayrıcalık tanımak",
+        "synset_english": "to exempt",
+        "definition_english": "to remit a task, a duty; to grant a privilege"
+    },
+    {
+        "synset_turkish": "ocumak",
+        "definition_turkish": "Bir şeyden soğumak",
+        "synset_english": "to become bored",
+        "definition_english": "to become bored of something"
+    },
+    {
+        "synset_turkish": "rapor almak",
+        "definition_turkish": "hasta olup olmadığını belirlemek amacıyla herhangi bir sağlık kuruluşundan belge almak",
+        "synset_english": "to receive a report",
+        "definition_english": "to obtain a document from any health institution to determine if one is ill"
+    },
+    {
+        "synset_turkish": "rapor almak",
+        "definition_turkish": "sorumluluğu altındakilerden herhangi bir konuda bilgi almak",
+        "synset_english": "to receive a report",
+        "definition_english": "to obtain information from anyone under one's responsibility about any matter"
+    },
+    {
+        "synset_turkish": "illet etmek",
+        "definition_turkish": "Sakatlamak",
+        "synset_english": "to injure",
+        "definition_english": "to injure"
+    },
+    {
+        "synset_turkish": "toplatılmak",
+        "definition_turkish": "Yakalanan şeyler satıcılardan alınmak",
+        "synset_english": "to be gathered",
+        "definition_english": "to be taken from sellers after being caught"
+    },
+    {
+        "synset_turkish": "kıl kapmak",
+        "definition_turkish": "birisine sinirlenmek, hareketlerinden rahatsız olmak",
+        "synset_english": "to catch a hair",
+        "definition_english": "to become angry with someone, to be bothered by their actions"
+    },
+    {
+        "synset_turkish": "takmak",
+        "definition_turkish": "Sınavını başaramamak",
+        "synset_english": "to take",
+        "definition_english": "to fail an exam"
+    },
+    {
+        "synset_turkish": "sonuç çıkarmak",
+        "definition_turkish": "bir işlemi bitirip sonuca ulaşmak",
+        "synset_english": "to draw a conclusion",
+        "definition_english": "to finish a process and reach a result"
+    },
+    {
+        "synset_turkish": "sormak",
+        "definition_turkish": "Bir işin sorumluluğu kendisinde olmak, bir işten sorumlu bulunmak",
+        "synset_english": "to ask",
+        "definition_english": "to be responsible for a task, to be found responsible for a task"
+    },
+    {
+        "synset_turkish": "mesul olmak",
+        "definition_turkish": "sorumlu olmak",
+        "synset_english": "to be responsible",
+        "definition_english": "to be responsible"
+    },
+    {
+        "synset_turkish": "mühlet istemek",
+        "definition_turkish": "bir işin yapılması, tamamlanması için belirli bir süre verilmesini istemek",
+        "synset_english": "to ask for a respite",
+        "definition_english": "to request a certain period of time to be given to complete a task"
+    },
+    {
+        "synset_turkish": "tasarruf etmek büzmek",
+        "definition_turkish": "Kısmak",
+        "synset_english": "to economize",
+        "definition_english": "to cut"
+    },
+    {
+        "synset_turkish": "tevlit etmek",
+        "definition_turkish": "Sebep olmak, oluşturmak",
+        "synset_english": "to cause",
+        "definition_english": "to cause, to create"
+    },
+    {
+        "synset_turkish": "buz gibi soğumak",
+        "definition_turkish": "birinden tiksinmek",
+        "synset_english": "to freeze like ice",
+        "definition_english": "to become disgusted with someone"
+    },
+    {
+        "synset_turkish": "göbeği çatlamak",
+        "definition_turkish": "birçok güçlüğü yenmek için çok uğraşmak",
+        "synset_english": "to burst the belly button",
+        "definition_english": "to struggle greatly to overcome many difficulties"
+    },
+    {
+        "synset_turkish": "eteğini çekmek",
+        "definition_turkish": "uğraşmamak, ilgilenmemek",
+        "synset_english": "to pull one's skirt",
+        "definition_english": "to not bother, to not pay attention"
+    },
+    {
+        "synset_turkish": "ürkmek utanmak",
+        "definition_turkish": "Çekinmek",
+        "synset_english": "to be frightened",
+        "definition_english": "to be shy"
+    },
+    {
+        "synset_turkish": "tevahhuş etmek",
+        "definition_turkish": "ürkmek",
+        "synset_english": "to be terrified",
+        "definition_english": "to be frightened"
+    },
+    {
+        "synset_turkish": "sökmek vazgeçirmek,",
+        "definition_turkish": "vazgeçme işini yaptırmak|Ayırmak, uzaklaştırmak",
+        "synset_english": "to dismantle, to dissuade",
+        "definition_english": "to carry out a cessation of business|To separate, to distance"
+    },
+    {
+        "synset_turkish": "resim almak,",
+        "definition_turkish": "vergi ödetmek",
+        "synset_english": "to take a picture",
+        "definition_english": "to pay taxes"
+    },
+    {
+        "synset_turkish": "anlam çıkarmak,",
+        "definition_turkish": "yersiz ve gereksiz bir yargıya varmak, yanlış değerlendirmek; bir söze, söyleyenin aklından geçmeyen bir anlam vermek",
+        "synset_english": "to derive meaning",
+        "definition_english": "to arrive at a barren and unnecessary judgment, to misjudge; to give a word a meaning that does not occur in the speaker's mind"
+    },
+    {
+        "synset_turkish": "gelmek,",
+        "definition_turkish": "...-dikçe, ...-esi biçiminde kullanılan sıfat-fiil eklerinden sonra geldiğinde önceki fiille ilgili olarak pekiştirilmiş bir istek ve sürerlik bildiren bir fiil",
+        "synset_english": "to come",
+        "definition_english": "...-wise, ...-ful form after the suffix of an adjective-verb is used, it is a verb that expresses a strengthened request and continuity related to the previous verb"
+    },
+    {
+        "synset_turkish": "asılanmak,",
+        "definition_turkish": "Bir şeyden yarar sağlamak, intifa etmek",
+        "synset_english": "to swarm",
+        "definition_english": "to benefit from something, to have a share"
+    },
+    {
+        "synset_turkish": "çimlenmek,",
+        "definition_turkish": "Kendinin olmayan şeylerden biraz yarar sağlamak",
+        "synset_english": "to sprout",
+        "definition_english": "to benefit a little from something that is not one's own"
+    },
+    {
+        "synset_turkish": "bir şey anlamamak,",
+        "definition_turkish": "yiyeceğin tadına varamamak",
+        "synset_english": "to not understand something",
+        "definition_english": "to not be able to taste the flavor you will eat"
+    },
+    {
+        "synset_turkish": "kefasını kaldırmamak,",
+        "definition_turkish": "Yoğun olarak çalışmak; meşgul olmak",
+        "synset_english": "to not lift one's head",
+        "definition_english": "to work intensely; to be busy"
+    },
+    {
+        "synset_turkish": "gözü korkmak,",
+        "definition_turkish": "daha önce geçirdiği kötü bir denemeden sonra birinden veya bir şeyden zarar gelebileceği kanısına varmak",
+        "synset_english": "to be frightened",
+        "definition_english": "to conclude after a bad attempt that harm may come from someone or something"
+    },
+    {
+        "synset_turkish": "adımını geri atmak,",
+        "definition_turkish": "başladığı bir işten geri dönmek",
+        "synset_english": "to step back",
+        "definition_english": "to return from a job started"
+    },
+    {
+        "synset_turkish": "affını istemek affını dilemek,",
+        "definition_turkish": "bir iş veya görevi yerine getiremeyeceğini nezaketle bildirmek",
+        "synset_english": "to ask for forgiveness, to express forgiveness",
+        "definition_english": "to politely inform that one cannot fulfill a job or task"
+    },
+    {
+        "synset_turkish": "alkış toplamak,",
+        "definition_turkish": "çok alkışlanmak",
+        "synset_english": "to collect applause",
+        "definition_english": "to be greatly applauded"
+    },
+    {
+        "synset_turkish": "yatağını ayırmak,",
+        "definition_turkish": "ayrı yatakta yatmak",
+        "synset_english": "to separate the bed",
+        "definition_english": "to sleep in a separate bed"
+    },
+    {
+        "synset_turkish": "mağfiret dilemek,",
+        "definition_turkish": "bağışlanmayı istemek",
+        "synset_english": "to beg forgiveness",
+        "definition_english": "to ask for forgiveness"
+    },
+    {
+        "synset_turkish": "ileri gelmek merbut olmak,",
+        "definition_turkish": "bağlı bulunmak, sonucunda olmak",
+        "synset_english": "to come forward, to submit",
+        "definition_english": "to be bound, to be in the end"
+    },
+    {
+        "synset_turkish": "sağmak,",
+        "definition_turkish": "Kovandaki balı peteklerden almak",
+        "synset_english": "to extract",
+        "definition_english": "to take the honey from the honeycomb in frames"
+    },
+    {
+        "synset_turkish": "bal sağmak,",
+        "definition_turkish": "kovandan bal ürünü almak",
+        "synset_english": "to extract honey",
+        "definition_english": "to take honey product from the honeycomb"
+    },
+    {
+        "synset_turkish": "yemlenmek,",
+        "definition_turkish": "Para harcamadan bir başkasından geçinmek",
+        "synset_english": "to be fed",
+        "definition_english": "to live by someone without spending money"
+    },
+    {
+        "synset_turkish": "geçinmek,",
+        "definition_turkish": "Kendi gereksinimlerini başkalarından sağlamak",
+        "synset_english": "to subsist",
+        "definition_english": "to meet one's own needs from others"
+    },
+    {
+        "synset_turkish": "tekmil almak,",
+        "definition_turkish": "üst, birliğin o andaki durumunu bildiren sözlü bilgiyi asttan almak",
+        "synset_english": "to receive a report",
+        "definition_english": "to receive an upper, verbal information about the current situation of the unit from the subordinate"
+    },
+    {
+        "synset_turkish": "usançlık getirmek,",
+        "definition_turkish": "iyice bıkmak, tamamen usanmak",
+        "synset_english": "to cause annoyance",
+        "definition_english": "to become very bored, to completely tire"
+    },
+    {
+        "synset_turkish": "boş düşmek,",
+        "definition_turkish": "İslam hukukuna göre, kadın kocasından ayrılmak",
+        "synset_english": "to be empty",
+        "definition_english": "according to Islamic law, a woman leaving her husband"
+    },
+    {
+        "synset_turkish": "uçuvermek,",
+        "definition_turkish": "Çabucak gitmek",
+        "synset_english": "to fly away",
+        "definition_english": "to quickly go away"
+    },
+    {
+        "synset_turkish": "ceketini alıp çıkmak,",
+        "definition_turkish": "ilişkisini tamamen koparmak",
+        "synset_english": "to take off his jacket and leave",
+        "definition_english": "to completely break off the relationship"
+    },
+    {
+        "synset_turkish": "tevakki etmek,",
+        "definition_turkish": "sakınmak; korunmak; çekinmek",
+        "synset_english": "to be cautious",
+        "definition_english": "to be careful; to protect; to hesitate"
+    },
+    {
+        "synset_turkish": "yaylanmak,",
+        "definition_turkish": "Çekilip gitmek",
+        "synset_english": "to spread",
+        "definition_english": "to withdraw"
+    },
+    {
+        "synset_turkish": "basıp gitmek,",
+        "definition_turkish": "Birdenbire gitmek, aklına koyduğu şeyi yapmak üzere bulunduğu yerden uzaklaşmak; çekip gitmek",
+        "synset_english": "to step on and leave",
+        "definition_english": "to suddenly go, to leave the place where he has decided to do something; to leave abruptly"
+    },
+    {
+        "synset_turkish": "cep harçlığını çıkarmak,",
+        "definition_turkish": "günlük masrafını karşılayacak kadar kazanç sahibi olmak",
+        "synset_english": "to spend pocket money",
+        "definition_english": "to earn enough to cover daily expenses"
+    },
+    {
+        "synset_turkish": "meyve almak mal kaldırmak,",
+        "definition_turkish": "ürün almak",
+        "synset_english": "to buy fruit",
+        "definition_english": "to take goods"
+    },
+    {
+        "synset_turkish": "çöplenmek,",
+        "definition_turkish": "Kendine açıktan ufak tefek çıkarlar sağlamak",
+        "synset_english": "to scavenge",
+        "definition_english": "to obtain small benefits from open sources"
+    },
+    {
+        "synset_turkish": "çıkış almak",
+        "definition_turkish": "çıkış belgesi almak",
+        "synset_english": "to receive an exit document",
+        "definition_english": "to obtain an exit document"
+    },
+    {
+        "synset_turkish": "dar kaçmak",
+        "definition_turkish": "istemediği bir çevreden kendini dışarı atmak",
+        "synset_english": "to escape from an unwanted environment",
+        "definition_english": "to get oneself out of an environment one doesn't want to be in"
+    },
+    {
+        "synset_turkish": "kıssadan hisse almak kıssadan hisse çıkarmak",
+        "definition_turkish": "anlatılan bir olaydan ders almak",
+        "synset_english": "to take a moral lesson from a story",
+        "definition_english": "to learn a lesson from a recounted event"
+    },
+    {
+        "synset_turkish": "durumdan ders çıkarmak",
+        "definition_turkish": "içinde bulunulan şartları değerlendirerek yanlış adım atmamak",
+        "synset_english": "to learn a lesson from the situation",
+        "definition_english": "to avoid making wrong steps by evaluating the conditions one is in"
+    },
+    {
+        "synset_turkish": "hisse almak",
+        "definition_turkish": "ders çıkarmak",
+        "synset_english": "to learn a lesson",
+        "definition_english": "to draw a lesson"
+    },
+    {
+        "synset_turkish": "hisse kapmak",
+        "definition_turkish": "bir olaydan yararlı bir öğüt çıkarmak",
+        "synset_english": "to glean a useful lesson from an event",
+        "definition_english": "to extract a useful lesson from an event"
+    },
+    {
+        "synset_turkish": "icazet almak",
+        "definition_turkish": "diploma almak",
+        "synset_english": "to obtain a diploma",
+        "definition_english": "to receive a diploma"
+    },
+    {
+        "synset_turkish": "döl almak",
+        "definition_turkish": "cins bir hayvandan yararlanarak iyi cins yavru almak",
+        "synset_english": "to obtain a good-quality offspring from a livestock",
+        "definition_english": "to get a good-quality young animal from livestock"
+    },
+    {
+        "synset_turkish": "döviz kaçırmak",
+        "definition_turkish": "yurt dışına izinsiz döviz çıkarmak",
+        "synset_english": "to smuggle currency abroad",
+        "definition_english": "to take currency abroad without permission"
+    },
+    {
+        "synset_turkish": "düşmek",
+        "definition_turkish": "Atlanmak, aradan çıkmak, eksik kalmak",
+        "synset_english": "to fall down",
+        "definition_english": "to step over, to get rid of, to be missing"
+    },
+    {
+        "synset_turkish": "elektrik almak",
+        "definition_turkish": "Etkisi altında kalmak; etkilenmek",
+        "synset_english": "to be affected by electricity",
+        "definition_english": "to be under the influence; to be affected"
+    },
+    {
+        "synset_turkish": "havasını almak",
+        "definition_turkish": "birinin eli boş çıkmak",
+        "synset_english": "for someone to leave with nothing",
+        "definition_english": "for someone to leave with nothing"
+    },
+    {
+        "synset_turkish": "eli boş dönmek",
+        "definition_turkish": "umduğunu alamadan dönmek",
+        "synset_english": "to return disappointed",
+        "definition_english": "to return in disappointment"
+    },
+    {
+        "synset_turkish": "soruşmak",
+        "definition_turkish": "Emilip yok olmak",
+        "synset_english": "to be absorbed and disappear",
+        "definition_english": "to be absorbed and vanish"
+    },
+    {
+        "synset_turkish": "çerezlenmek",
+        "definition_turkish": "Bir şeyden biraz yararlanmak; çimlenmek",
+        "synset_english": "to benefit slightly from something; to sprout",
+        "definition_english": "to benefit slightly from something; to sprout"
+    },
+    {
+        "synset_turkish": "feyzalmak",
+        "definition_turkish": "Etkilenmek, olgunlaşmak, ders almak",
+        "synset_english": "to be affected, to mature, to learn",
+        "definition_english": "to be affected, to mature, to learn"
+    },
+    {
+        "synset_turkish": "güvenoyu almak",
+        "definition_turkish": "hükûmetin tutumu milletvekilleri tarafından onaylanmak",
+        "synset_english": "for the government's stance to be approved by parliamentarians",
+        "definition_english": "for the government's stance to be approved by parliamentarians"
+    },
+    {
+        "synset_turkish": "hayır dua almak",
+        "definition_turkish": "kendisi için iyi dilekte bulunulmak",
+        "synset_english": "to receive good wishes for oneself",
+        "definition_english": "to receive good wishes for oneself"
+    },
+    {
+        "synset_turkish": "tulum çıkarmak",
+        "definition_turkish": "hayvanın derisini yarmadan çıkarmak",
+        "synset_english": "to remove the skin from an animal without tearing it",
+        "definition_english": "to remove the skin from an animal without tearing it"
+    },
+    {
+        "synset_turkish": "imza toplamak",
+        "definition_turkish": "bir dilekçeyi veya öneriyi, destekleyenlere imzalatmak",
+        "synset_english": "to collect signatures for a petition or proposal",
+        "definition_english": "to obtain signatures from supporters for a petition or proposal"
+    },
+    {
+        "synset_turkish": "çıkış almak",
+        "definition_turkish": "işten ayrılmak",
+        "synset_english": "to resign from a job",
+        "definition_english": "to quit a job"
+    },
+    {
+        "synset_turkish": "tüymek firar etmek fertik çekmek fertiği kırmak gazlamak",
+        "definition_turkish": "Kaçmak",
+        "synset_english": "to flee",
+        "definition_english": "to escape"
+    },
+    {
+        "synset_turkish": "arazi olmak",
+        "definition_turkish": "sıvışmak",
+        "synset_english": "to seep",
+        "definition_english": "to seep"
+    },
+    {
+        "synset_turkish": "kaçmak",
+        "definition_turkish": "Kaçgöçe uymak",
+        "synset_english": "to flee",
+        "definition_english": "to emigrate"
+    },
+    {
+        "synset_turkish": "kaçımsamak",
+        "definition_turkish": "Bir işi yapmamak için sözde sebepler ileri sürmek",
+        "synset_english": "to evade by offering false reasons",
+        "definition_english": "to evade by offering false reasons"
+    },
+    {
+        "synset_turkish": "yelkenlemek",
+        "definition_turkish": "Kaçıp gitmek",
+        "synset_english": "to flee",
+        "definition_english": "to escape"
+    },
+    {
+        "synset_turkish": "paçayı sıyırmak paçayı kurtarmak",
+        "definition_turkish": "kendini bir dertten, tehlikeden veya zor durumdan kurtarmak",
+        "synset_english": "to rescue oneself from a problem, danger, or difficult situation",
+        "definition_english": "to rescue oneself from a problem, danger, or difficult situation"
+    },
+    {
+        "synset_turkish": "denize çıkmak",
+        "definition_turkish": "gezi veya av için kıyıdan ayrılmak",
+        "synset_english": "to depart from the coast for a trip or hunting",
+        "definition_english": "to depart from the coast for a trip or hunting"
+    },
+    {
+        "synset_turkish": "kız almak",
+        "definition_turkish": "bir ailenin kızını gelin olarak kendi ailelerine katmak",
+        "synset_english": "to take a daughter of a family as a bride",
+        "definition_english": "to take a daughter of a family as a bride"
+    },
+    {
+        "synset_turkish": "köşe bucak kaçmak köşe bucak saklanmak",
+        "definition_turkish": "kimseye görünmek istememek",
+        "synset_english": "to hide from everyone",
+        "definition_english": "to hide from everyone"
+    },
+    {
+        "synset_turkish": "ileri gelmek",
+        "definition_turkish": "neden olmak",
+        "synset_english": "to come about",
+        "definition_english": "to cause"
+    },
+    {
+        "synset_turkish": "nefes çekmek",
+        "definition_turkish": "sigara veya başka bir şeyin dumanını içine çekmek",
+        "synset_english": "to inhale",
+        "definition_english": "to draw in smoke from a cigarette or other substance"
+    },
+    {
+        "synset_turkish": "belge almak",
+        "definition_turkish": "başarısızlık yüzünden öğretim kurumuyla ilişiği kesilmek",
+        "synset_english": "to be expelled",
+        "definition_english": "to be dismissed from an educational institution due to failure"
+    },
+    {
+        "synset_turkish": "gazi olmak",
+        "definition_turkish": "savaştan, ölmeden dönmek",
+        "synset_english": "to become a war veteran",
+        "definition_english": "to return from war without dying"
+    },
+    {
+        "synset_turkish": "ayrılaşmak",
+        "definition_turkish": "Benzerleri arasında ayrı bir yeri ve önemi olmak; teferrüt etmek",
+        "synset_english": "to stand out",
+        "definition_english": "to have a special place and importance among similar things; to distinguish oneself"
+    },
+    {
+        "synset_turkish": "duman olmak",
+        "definition_turkish": "bir kimse veya bir şey ortadan kaybolmak",
+        "synset_english": "to disappear",
+        "definition_english": "for a person or thing to vanish completely"
+    },
+    {
+        "synset_turkish": "pay biçmek",
+        "definition_turkish": "durumu bir kişi veya bir şeyin durumu ile karşılaştırıp yargıya varmak",
+        "synset_english": "to assess",
+        "definition_english": "to evaluate a situation by comparing it to the state of a person or thing"
+    },
+    {
+        "synset_turkish": "pozisyon değiştirmek",
+        "definition_turkish": "Bir durum ya da konumdan diğerine geçmek",
+        "synset_english": "to change position",
+        "definition_english": "to move from one situation or position to another"
+    },
+    {
+        "synset_turkish": "su almak",
+        "definition_turkish": "herhangi bir organdan tedavi maksadıyla su boşaltmak",
+        "synset_english": "to drain",
+        "definition_english": "to drain fluid from an organ for therapeutic purposes"
+    },
+    {
+        "synset_turkish": "vize almak",
+        "definition_turkish": "elçilikten veya konsolosluktan bir ülkeye giriş izni almak",
+        "synset_english": "to obtain a visa",
+        "definition_english": "to receive permission to enter a country from an embassy or consulate"
+    },
+    {
+        "synset_turkish": "meyve almak",
+        "definition_turkish": "yarar elde etmek",
+        "synset_english": "to reap the benefits",
+        "definition_english": "to gain profit or advantage"
+    },
+    {
+        "synset_turkish": "hayır görmemek",
+        "definition_turkish": "bir şey kendisine yararlı olmamak",
+        "synset_english": "to be of no use",
+        "definition_english": "to be useless to someone"
+    },
+    {
+        "synset_turkish": "medet ummak medet beklemek imdat ummak",
+        "definition_turkish": "yardım beklemek",
+        "synset_english": "to seek help",
+        "definition_english": "to wait for assistance"
+    },
+    {
+        "synset_turkish": "dili yanmak",
+        "definition_turkish": "üzüntü ve eziyet çekmek, zarara uğramak",
+        "synset_english": "to be tongue-tied",
+        "definition_english": "to suffer from sorrow and torment, to be harmed"
+    },
+    {
+        "synset_turkish": "bir gömlek fazla eskitmiş olmak",
+        "definition_turkish": "birinden daha yaşlı ve daha görmüş geçirmiş olmak",
+        "synset_english": "to be older and more experienced",
+        "definition_english": "to be older and more experienced than someone else"
+    },
+    {
+        "synset_turkish": "geçirmek",
+        "definition_turkish": "Bir işi birden çok kişi üzerinde uygulamak",
+        "synset_english": "to implement",
+        "definition_english": "to carry out a task on multiple people"
+    },
+    {
+        "synset_turkish": "çekmek",
+        "definition_turkish": "Bir yerden bir şeyi yukarı doğru almak",
+        "synset_english": "to lift",
+        "definition_english": "to pull something up from a place"
+    },
+    {
+        "synset_turkish": "içi burkulmak",
+        "definition_turkish": "bir şeye çok üzülmek",
+        "synset_english": "to be heartbroken",
+        "definition_english": "to be very sad about something"
+    },
+    {
+        "synset_turkish": "diş açmak",
+        "definition_turkish": "madenî boruları birbirine birleştirebilmek amacıyla özel aletle sarmal yiv ve set oluşturmak",
+        "synset_english": "to thread",
+        "definition_english": "to create spiral grooves and threads with a special tool to connect metal pipes"
+    },
+    {
+        "synset_turkish": "çuvallamak",
+        "definition_turkish": "Başaramamak",
+        "synset_english": "to fail",
+        "definition_english": "to be unable to succeed"
+    },
+    {
+        "synset_turkish": "geri kalmamak",
+        "definition_turkish": "birinden daha az başarılı olmamak",
+        "synset_english": "to not lag behind",
+        "definition_english": "to not be less successful than someone else"
+    },
+    {
+        "synset_turkish": "çizmek",
+        "definition_turkish": "Kişiyle ilgiyi kesmek, bağı koparmak",
+        "synset_english": "to cut off",
+        "definition_english": "to sever contact with someone, to break a bond"
+    },
+    {
+        "synset_turkish": "çift sürmek",
+        "definition_turkish": "saban, pulluk kullanarak toprağı ekilebilir duruma getirmek",
+        "synset_english": "to plow",
+        "definition_english": "to cultivate land using a plow and wagon"
+    },
+    {
+        "synset_turkish": "aşmak",
+        "definition_turkish": "Erkek hayvan dişisiyle çiftleşmek",
+        "synset_english": "to mate",
+        "definition_english": "to breed with a female animal"
+    },
+    {
+        "synset_turkish": "helalliğe almak",
+        "definition_turkish": "biriyle evlenmek",
+        "synset_english": "to marry",
+        "definition_english": "to get someone to agree to marry you"
+    },
+    {
+        "synset_turkish": "üzerine almak",
+        "definition_turkish": "eşinin üstüne bir başkasıyla evlenmek",
+        "synset_english": "to bigamy",
+        "definition_english": "to marry another person while still being married to one's spouse"
+    },
+    {
+        "synset_turkish": "müzakere etmek",
+        "definition_turkish": "sözlü sınav yapmak",
+        "synset_english": "to debate",
+        "definition_english": "to discuss a matter orally"
+    },
+    {
+        "synset_turkish": "ekini belli etmemek",
+        "definition_turkish": "kusurlu bir işi sağlam, doğru ve doğal imiş gibi gösterme becerisini kanıtlamak",
+        "synset_english": "to conceal flaws",
+        "definition_english": "to demonstrate the ability to make a flawed job appear sound, correct, and natural"
+    },
+    {
+        "synset_turkish": "belsoğukluğuna uğratmak",
+        "definition_turkish": "bir işe veya bir söze gereksiz yere karışarak onun akışını sektirmek",
+        "synset_english": "to disrupt",
+        "definition_english": "to interfere with a task or speech unnecessarily, disrupting its flow"
+    },
+    {
+        "synset_turkish": "bastırmak",
+        "definition_turkish": "Ansızın birinin yanına gitmek",
+        "synset_english": "to interrupt",
+        "definition_english": "to suddenly go to someone's side"
+    },
+    {
+        "synset_turkish": "bordalamak",
+        "definition_turkish": "Gemi başka bir gemiye çarpmak",
+        "synset_english": "to collide with another ship",
+        "definition_english": "for a ship to collide with another ship"
+    },
+    {
+        "synset_turkish": "iniminiminletmek",
+        "definition_turkish": "birini büyük sıkıntıya sokmak",
+        "synset_english": "to cause great distress to someone",
+        "definition_english": "to cause someone great distress"
+    },
+    {
+        "synset_turkish": "büyüksemek büyümsemek",
+        "definition_turkish": "Büyük olduğunu kabul etmek",
+        "synset_english": "to acknowledge one's size",
+        "definition_english": "to accept that one is large"
+    },
+    {
+        "synset_turkish": "çamurlamak",
+        "definition_turkish": "Çamur sürmek, çamurla sıvamak",
+        "synset_english": "to smear with mud",
+        "definition_english": "to smear with mud, to coat with mud"
+    },
+    {
+        "synset_turkish": "cin çarpmak",
+        "definition_turkish": "bir inanışa göre, cinlerin öfkesiyle inme inmek",
+        "synset_english": "to be struck by a jinn (according to belief)",
+        "definition_english": "to fall down due to the anger of a jinn (according to belief)"
+    },
+    {
+        "synset_turkish": "teşci etmek",
+        "definition_turkish": "Cesaret vermek, cesaretlendirmek, yüreklendirmek",
+        "synset_english": "to encourage, to bolster courage",
+        "definition_english": "to give courage, to encourage, to bolster courage"
+    },
+    {
+        "synset_turkish": "bastırmak",
+        "definition_turkish": "Cevabı hemen yetiştirmek",
+        "synset_english": "to hasten the answer",
+        "definition_english": "to hasten the answer"
+    },
+    {
+        "synset_turkish": "çimdik atmak çimdik basmak",
+        "definition_turkish": "çimdiklemek",
+        "synset_english": "to slap lightly",
+        "definition_english": "to slap lightly"
+    },
+    {
+        "synset_turkish": "çimentolamak",
+        "definition_turkish": "Çimento sürmek, çimento ile sıvamak",
+        "synset_english": "to plaster with cement",
+        "definition_english": "to plaster with cement, to coat with cement"
+    },
+    {
+        "synset_turkish": "halletmek",
+        "definition_turkish": "Cinsel ilişki kurmak",
+        "synset_english": "to have sexual intercourse",
+        "definition_english": "to have sexual intercourse"
+    },
+    {
+        "synset_turkish": "yastıklamak",
+        "definition_turkish": "Sürülen tarlanın iki başına ters yönde birkaç çizgi çekmek",
+        "synset_english": "to draw several lines in reverse direction on the ploughed field",
+        "definition_english": "to draw several lines in reverse direction on the ploughed field"
+    },
+    {
+        "synset_turkish": "çizmek",
+        "definition_turkish": "Geçersiz kılmak için üzerine çizgi çekmek",
+        "synset_english": "to draw a line on it to invalidate",
+        "definition_english": "to draw a line on it to invalidate"
+    },
+    {
+        "synset_turkish": "vidaları gevşemek",
+        "definition_turkish": "kendini tutamayıp çok gülmek",
+        "synset_english": "to lose control and laugh a lot",
+        "definition_english": "to lose control and laugh a lot"
+    },
+    {
+        "synset_turkish": "dünyayı tutmak cihanı tutmak",
+        "definition_turkish": "Her yeri kaplamak, her yere dağılmak, yayılmak",
+        "synset_english": "to cover everything, to spread everywhere",
+        "definition_english": "to cover everything, to spread everywhere"
+    },
+    {
+        "synset_turkish": "darıltmak",
+        "definition_turkish": "Darılmasına neden olmak",
+        "synset_english": "to cause to tighten",
+        "definition_english": "to cause to tighten"
+    },
+    {
+        "synset_turkish": "çarşamba pazarına çevirmek",
+        "definition_turkish": "özellikle yüze vurarak çok dayak atmak",
+        "synset_english": "to beat someone severely, especially on the face",
+        "definition_english": "to beat someone severely, especially on the face"
+    },
+    {
+        "synset_turkish": "ıslatmak",
+        "definition_turkish": "Dayak atmak veya ağır hakarette bulunmak",
+        "synset_english": "to beat or use harsh words",
+        "definition_english": "to beat or use harsh words"
+    },
+    {
+        "synset_turkish": "yüreği götürmemek",
+        "definition_turkish": "dayanmamak, katlanamamak",
+        "synset_english": "not to be able to bear it, not to be able to tolerate it",
+        "definition_english": "not to be able to bear it, not to be able to tolerate it"
+    },
+    {
+        "synset_turkish": "yüreği kaldırmamak",
+        "definition_turkish": "dayanamamak, katlanamamak",
+        "synset_english": "not to be able to withstand it, not to be able to bear it",
+        "definition_english": "not to be able to withstand it, not to be able to bear it"
+    },
+    {
+        "synset_turkish": "başına taç etmek",
+        "definition_turkish": "çok değer vermek, ilgi göstermek",
+        "synset_english": "to bestow a crown on one's head, to show great interest",
+        "definition_english": "to bestow a crown on one's head, to show great interest"
+    },
+    {
+        "synset_turkish": "gözü görmez olmak",
+        "definition_turkish": "artık ona değer vermemek",
+        "synset_english": "to no longer value him/her",
+        "definition_english": "to no longer value him/her"
+    },
+    {
+        "synset_turkish": "delik deşik etmek",
+        "definition_turkish": "bir şeyin her yanında delikler açmak",
+        "synset_english": "to make holes all around something",
+        "definition_english": "to make holes all around something"
+    },
+    {
+        "synset_turkish": "derdini deşmek derdini depreştirmek",
+        "definition_turkish": "derdini hatırlatıp yeniden üzülmesine yol açmak",
+        "synset_english": "to remind him/her of his/her problem and cause him/her to be saddened again",
+        "definition_english": "to remind him/her of his/her problem and cause him/her to be saddened again"
+    },
+    {
+        "synset_turkish": "dipçiklemek",
+        "definition_turkish": "Dipçikle vurmak",
+        "synset_english": "to strike with a dipstick",
+        "definition_english": "to strike with a dipstick"
+    },
+    {
+        "synset_turkish": "dizlemek",
+        "definition_turkish": "Dizini kullanarak bastırmak",
+        "synset_english": "to press down using the knee",
+        "definition_english": "to press down using the knee"
+    },
+    {
+        "synset_turkish": "sıyırmak",
+        "definition_turkish": "Hafifçe dokunarak geçmek",
+        "synset_english": "to pass lightly by touching",
+        "definition_english": "to pass lightly by touching"
+    },
+    {
+        "synset_turkish": "doyurmak",
+        "definition_turkish": "Para yedirmek",
+        "synset_english": "to provide with money",
+        "definition_english": "to provide with money"
+    },
+    {
+        "synset_turkish": "mandallamak",
+        "definition_turkish": "Telsizlerde konuşmaları anlaşılmaz duruma getirmek için sürekli olarak düğmelere basmak",
+        "synset_english": "to repeatedly press buttons to make radio conversations incomprehensible",
+        "definition_english": "to repeatedly press buttons to make radio conversations incomprehensible"
+    },
+    {
+        "synset_turkish": "işlemek",
+        "definition_turkish": "Düşüncelerini herhangi birine etki yaparak benimsetmek",
+        "synset_english": "to instill thoughts in someone by influencing them",
+        "definition_english": "to instill thoughts in someone by influencing them"
+    },
+    {
+        "synset_turkish": "mütehassis etmek",
+        "definition_turkish": "bir kimseyi duygulandırmak",
+        "synset_english": "to move someone emotionally",
+        "definition_english": "to move someone emotionally"
+    }
+]

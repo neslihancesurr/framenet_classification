@@ -1,0 +1,1673 @@
+[
+    {
+        "frame_id": 2031,
+        "frame_name": "Terk_etme",
+        "definition": "Bir Fail, bir Temayı geride bırakarak onun artık kendi kontrolü altında olmamasını veya mülkiyeti olarak normal güvenliğinin kalmamasını sağlar. 'Carolyn arabasını terk etti ve kırmızı bir çift katlı otobüse atladı.' 'Belki de anahtarı kontakta bıraktı.' 'Bir çocuğun terk edilmesi birçok yargı alanında ciddi bir suç olarak kabul edilir.' Mecazi örnekler de vardır: 'Eski alışkanlıklarını geride bıraktı.'",
+        "lexical_units": [
+            "terk etmek.v",
+            "bırakmak.v",
+            "terk.n",
+            "terk edilmiş.a",
+            "unutmak.v"
+        ]
+    },
+    {
+        "frame_id": 262,
+        "frame_name": "İle_dolu_olma",
+        "definition": "Bir Konum, Tema ile doldurulmuş veya kaplanmıştır. Konum, Dış Argüman olarak gerçekleşir ve Tema, 'ile', 'içinde' veya 'den' ile başlayan bir edat tamlaması olarak yer alır. Not: Bu çerçeve, 'asfaltlanmış ve asfaltlanmamış yollar' örneğinde olduğu gibi sadece bir konumun türünü belirten 'asfaltlanmış' gibi sıfat kullanımlarını içermez. 'Körfezin suları balık kaynıyordu.' 'Yol tamamen çamurla kaplıydı.'",
+        "lexical_units": [
+            "kaynamak.v",
+            "karınca gibi kaynamak.a",
+            "emeklemek.v",
+            "dolup taşmak.v",
+            "kalabalık.a",
+            "tıklım tıklım.a",
+            "sürü halinde.a",
+            "üşüşmek.v",
+            "itip kakışmak.a",
+            "kaplı.a",
+            "örtülü.a",
+            "gizlenmiş.a",
+            "dolup taşan.a",
+            "kaplanmış.a",
+            "noktalı.a",
+            "kaynayan.a",
+            "hafifçe sürülmüş.a",
+            "serpiştirilmiş.a",
+            "tereyağı sürülmüş.a",
+            "sıvanmış.a",
+            "bulaşmış.a",
+            "saçılmış.a",
+            "sıçramış.a",
+            "doldurulmuş.a",
+            "karolu.a",
+            "yığılmış.a",
+            "tıkıştırılmış.a",
+            "serpilmiş.a",
+            "enjekte edilmiş.a",
+            "örtülmüş.a",
+            "ağzına kadar dolu.a",
+            "dolu.a",
+            "tıklım tıklım.a",
+            "tamamen dolu.a",
+            "tozlanmış.a",
+            "kaplanmış.a",
+            "duvar kağıdıyla kaplanmış.a",
+            "aşırı kalabalık.a",
+            "aşırı doldurulmuş.a",
+            "doldurulmuş.a",
+            "dolu.a",
+            "süslenmiş.a",
+            "asfaltlanmış.a",
+            "fırçalanmış.a",
+            "asılmış.a",
+            "sıkışmış.a",
+            "döşenmiş.a",
+            "donatılmış.a",
+            "süslenmiş.a",
+            "bezenmiş.a",
+            "mücevherlerle süslü.a",
+            "lekelenmiş.a",
+            "sıçramış.a",
+            "dekore edilmiş.a",
+            "çivili.a",
+            "dizili.a",
+            "süslenmiş.a",
+            "cilalanmış.a",
+            "boyanmış.a",
+            "laklanmış.a",
+            "sırlanmış.a",
+            "yaldızlanmış.a",
+            "bezenmiş.a",
+            "panellenmiş.a",
+            "yaygın.a",
+            "yığılmış.a",
+            "çöple dolu.a"
+        ]
+    },
+    {
+        "frame_id": 830,
+        "frame_name": "Isı_soğurma",
+        "definition": "Bir Varlık (genellikle yiyecek), sıcaklığı da belirtilebilen bir Isı Kaynağına maruz bırakılır. Genellikle Varlık, bu sürecin bir sonucu olarak bir tür değişikliğe uğrar. 'Pastırma tavada kızarıyordu ve bir yığın yumurta zaten bir tabakta buğulanıyordu.' 'Eğer 400 derecede bir saat pişerse, bir kül yığınından başka bir şey kalmaz!'",
+        "lexical_units": [
+            "cızırdamak.v",
+            "kızartmak.v",
+            "fırınlamak.v",
+            "kısık ateşte pişirmek.v",
+            "pişirmek.v",
+            "haşlamak.v",
+            "kaynatmak.v",
+            "yakmak.v",
+            "dağlamak.v",
+            "hafifçe yakmak.v",
+            "mangal yapmak.v",
+            "şoklamak.v",
+            "kendi suyunda pişirmek.v",
+            "ızgara yapmak.v",
+            "pembeleşinceye kadar kavurmak.v",
+            "kömürleşmek.v",
+            "hafif ateşte pişirmek.v",
+            "bol yağda kızartmak.v",
+            "haşlamak.v",
+            "poşe etmek.v",
+            "fırında kızartmak.v",
+            "sotelemek.v",
+            "buharda pişirmek.v",
+            "kızartmak.v"
+        ]
+    },
+    {
+        "frame_id": 1602,
+        "frame_name": "Bolluk",
+        "definition": "Bir Yerde meydana gelen bir Koleksiyonun Miktarı belirli bir Ölçüye sahiptir. Koleksiyonun Ölçüsü, yalnızca Ölçünün belirtilen türdeki Koleksiyonlar için bir normdan ne kadar saptığı açısından ifade edilir. Derece, Ölçünün normla olan ilişkisini daha da netleştirebilir. 'Kar sularıyla akan bir diyarda güzellik boldur.' 'Atmosferde yaşam kalıntıları bolca bulunur.' 'Pasifik Okyanusu tabanının yüzlerce metre altındaki kayalarda egzotik mikropların kaynadığına dair yeni bir keşif yapıldı.'",
+        "lexical_units": [
+            "bol.a",
+            "bolca bulunmak.v",
+            "kaynamak.v",
+            "çok sayıda.a"
+        ]
+    },
+    {
+        "frame_id": 482,
+        "frame_name": "İstismar_etme",
+        "definition": "Bu çerçevede, bir İstismarcı, Mağdur'a fiziksel zarar verme veya Mağdur'u iradesi dışında cinsel aktiviteye zorlama da dahil olmak üzere sürekli olarak zalimce ve şiddetli bir şekilde davranır. Mağdur genellikle direnme veya karşı koyma gücünden yoksundur. İstismar Türü belirtilebilir. Bir Derece de olabilir. 'Babası annesine sözlü tacizde bulundu.'",
+        "lexical_units": [
+            "istismar.n",
+            "istismar etmek.v",
+            "tacizkar.a",
+            "dövmek.v",
+            "aile içi şiddet.n",
+            "kötü muamele etmek.v",
+            "kötü muamele.n"
+        ]
+    },
+    {
+        "frame_id": 1871,
+        "frame_name": "Erişim_senaryosu",
+        "definition": "Bir Tema, bir Engel nedeniyle veya engele rağmen bir Yararlı_Konum'a girebilir veya erişebilir ya da giremez/erişemez.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 258,
+        "frame_name": "Eşlik_etme",
+        "definition": "Bir Ortak Katılımcı, bir olay veya ilişkide Katılımcı ile aynı rolü doldurur. 'Belediye başkanı, üç koruması ve şoförüyle birlikte öldürüldü.' 'Doktor bana normal hapımı yeni ilaçla birlikte almamı söyledi, böylece semptomlarımdan kurtulacağım.'",
+        "lexical_units": [
+            "ile.prep",
+            "ile birlikte.prep",
+            "tek başına.adv",
+            "yalnız.a",
+            "kombinasyon halinde.prep",
+            "beraber.adv"
+        ]
+    },
+    {
+        "frame_id": 1519,
+        "frame_name": "Başarı",
+        "definition": "Failin bir Hedef üzerinde çalıştığı bir süreden sonra, Fail bu hedefe ulaşmayı başarır. Hedef, istenen bir durum olabilir veya bir olay olarak kavramsallaştırılabilir. 'Jeremey bu görevi itaatkar bir şekilde yerine getirdi.' 'Buna karşılık, Başbakan sadece serbest piyasa başarılarına atıfta bulundu.'",
+        "lexical_units": [
+            "başarmak.v",
+            "elde etmek.v",
+            "başarı.n",
+            "başarı.n",
+            "gerçekleştirmek.v",
+            "meydana getirmek.v"
+        ]
+    },
+    {
+        "frame_id": 158,
+        "frame_name": "Aksesuarlar",
+        "definition": "Bir Giyen, bir Malzemeden yapılmış ve bir Stili olabilen aksesuarlar takar. Aksesuarların çoğu temel olmayan (giyim) eşyalardır. 'Başına siyah kadife bir şapka takmıştı.'",
+        "lexical_units": [
+            "tören kıyafeti.n",
+            "halhal.n",
+            "yüzük.n",
+            "küpe.n",
+            "mücevher.n",
+            "kolye.n",
+            "bilezik.n",
+            "bileklik.n",
+            "küçük taç.n",
+            "taç.n",
+            "broş.n",
+            "tiyara.n",
+            "halka taç.n",
+            "diadem.n",
+            "zincir.n",
+            "madalyon.n",
+            "kolye ucu.n",
+            "peruk.n",
+            "takma saç.n",
+            "kol düğmesi.n",
+            "gözlük.n",
+            "gözlük.n",
+            "şapka.n",
+            "şapka iğnesi.n",
+            "kep.n",
+            "bone.n",
+            "maske.n",
+            "bandana.n",
+            "saç bandı.n",
+            "takma saç.n",
+            "fes.n",
+            "takke.n",
+            "silindir şapka.n",
+            "teçhizat.n",
+            "yarmulke.n",
+            "kar maskesi.n",
+            "bere.n",
+            "biretta.n",
+            "hasır şapka.n",
+            "foter şapka.n",
+            "gece başlığı.n",
+            "panama şapkası.n",
+            "sombrero.n",
+            "trilby şapka.n",
+            "türban.n",
+            "şako.n",
+            "peçe.n",
+            "başlık.n",
+            "başlık.n",
+            "kemer.n",
+            "takı.n",
+            "tasma kolye.n",
+            "iskoç kesesi.n",
+            "saç filesi.n",
+            "saç filesi.n",
+            "saç tokası.n",
+            "saç iğnesi.n",
+            "saç lastiği.n",
+            "tel toka.n",
+            "kuşak.n",
+            "saat.n",
+            "madalya.n",
+            "madalyon.n",
+            "kurdele.n",
+            "rozet.n",
+            "pazubent.n",
+            "pazubent.n",
+            "deniz gözlüğü.n",
+            "piskopos tacı.n",
+            "miğfer.n",
+            "kask.n",
+            "boyun zırhı.n",
+            "baldır zırhı.n",
+            "başlık.n",
+            "zırh gömlek.n",
+            "manto.n",
+            "gaz maskesi.n"
+        ]
+    },
+    {
+        "frame_id": 1903,
+        "frame_name": "Doğruluk",
+        "definition": "Bir Fail, başarısı bir eylem parametresinin sürekli bir değişkenin veya değişkenlerin (örneğin miktar, konum, zaman) belirli bir değer kümesiyle eşleşmesine bağlı olan bir faaliyete dahil olur. Fail veya mecazi olarak Araç veya Yöntem eylemi, faaliyetteki konum, zaman veya miktar ile amaçlanan olay için gerekli olan konum, zaman veya miktar arasındaki gerçek veya beklenen Sapma açısından tanımlanır. 'Longview Mesafe Ölçer, yüz yarda başına bir fit hassasiyetle doğrudur.' 'Tahmini bir büyüklük mertebesi kadar hatalıydı.' 'Çatal vinç operatörü hedefinde oldukça isabetli olmalıdır.' 'Günlük ölçümlerin hassasiyeti bir dizi faktöre bağlıdır.'",
+        "lexical_units": [
+            "doğru.a",
+            "üzerinde.prep",
+            "dışında.prep",
+            "yanlış.a",
+            "doğruluk.n",
+            "yanlışlık.n",
+            "kesin.a",
+            "hassas.a",
+            "hassasiyet.n",
+            "doğru bir şekilde.adv",
+            "yanlış bir şekilde.adv",
+            "gerçek.a"
+        ]
+    },
+    {
+        "frame_id": 403,
+        "frame_name": "İlk_kez_başarma",
+        "definition": "Bir Bilişselci, topluma Yeni_bir_fikir sunar. 'Edison'un ampulü icadı olmasaydı hayatımızın ne kadar farklı olacağını hayal etmek zor.'",
+        "lexical_units": [
+            "başlatmak.v",
+            "öncülük etmek.v",
+            "icat etmek.v",
+            "keşfetmek.v",
+            "türetmek.v",
+            "türetme.n",
+            "keşif.n",
+            "kaşif.n",
+            "başlatıcı.n",
+            "mucit.n",
+            "icat.n",
+            "öncü.n",
+            "öncü.a",
+            "bulmak.v",
+            "icat nesnesi.n"
+        ]
+    },
+    {
+        "frame_id": 1322,
+        "frame_name": "Aktif_madde",
+        "definition": "Bir Madde bir Etkiye neden olur. Madde, Etkiye yönelik olarak anlaşılan bir süreçle üretilir. Maddeyi oluşturan materyalin Adı da verilebilir. 'HIV bulaşmış kişilerde denatüre gp160'ın terapötik bir ajan olarak kullanılmasının mantığı, bağışıklık tepkisini artırmaktır.' 'Kinolonlar artık akut bakteriyel prostatit için tercih edilen antimikrobiyal ajanlar gibi görünüyor.' 'Hormonal olarak aktif kimyasallar, önemli çevresel zararlara yol açma potansiyeline sahiptir.'",
+        "lexical_units": [
+            "ajan.n",
+            "aktif.a",
+            "biyoaktif.a",
+            "neden olan ajan.n",
+            "tahriş edici.n",
+            "etkisiz hale getirici.n"
+        ]
+    },
+    {
+        "frame_id": 124,
+        "frame_name": "Faaliyet",
+        "definition": "Bu, Failin Faaliyetin devam eden bir durumuna girdiği, bir süre bu durumda kaldığı ve bitirerek veya durdurarak bu durumdan ayrıldığı süreli faaliyetler için soyut bir çerçevedir. Failin Faaliyeti kasıtlı olmalıdır. Bu çerçeve çoğunlukla ortak FE'lerin miras alınması ve her biri bu çerçevenin bir alt çerçevesini oluşturan bir Faaliyetin başlangıç, devam eden, bitiş veya durma aşaması için çerçeve yapısını sağlamak amacıyla tasarlanmıştır. Bu çerçeve Süreç çerçevesi ile karşılaştırılmalıdır.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 168,
+        "frame_name": "Faaliyetin_terk_edilmiş_durumu",
+        "definition": "Bir Fail, bir faaliyetin bitmemiş bir kısmındadır.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 182,
+        "frame_name": "Faaliyetin_tamamlanmış_durumu",
+        "definition": "Bir Fail bir Faaliyeti tamamlamıştır. 'Sonunda daireyi temizlemeyi bitirdim.' 'Yeni Safeway'in inşaatı Ekim ayına kadar tamamlanmıştı.'",
+        "lexical_units": [
+            "tamamlanmış.a",
+            "bitmiş.a",
+            "sona ermiş.a"
+        ]
+    },
+    {
+        "frame_id": 165,
+        "frame_name": "Faaliyetin_bitişi",
+        "definition": "Bir Fail, mantıksal olarak artık devam edemeyecek olan bir Faaliyeti bitirir. Bu çerçeve Faaliyet'in bir alt çerçevesidir. 'Jason kağıtları notlandırmayı Pazar gecesi geç saatlerde tamamladı.' 'Final sınavının tamamlanmasının ardından Ava notlarını çöpe attı.'",
+        "lexical_units": [
+            "toparlamak.v",
+            "bitirmek.v",
+            "sonuçlandırmak.v",
+            "tamamlamak.v",
+            "tamamlama.n",
+            "bağlamak.v",
+            "mezun olmak.v"
+        ]
+    },
+    {
+        "frame_id": 164,
+        "frame_name": "Faaliyetin_devamı",
+        "definition": "Bir Fail, bir Faaliyetin dinamik istikrarın olduğu kısmını gerçekleştirmektedir. 'Pencerenin önünden hızla geçen insan kalabalığını fark etmeyen Manny, öğle yemeğini yemeye devam etti.' 'Hayalini yaşamaya devam et!'",
+        "lexical_units": [
+            "tutmak.v",
+            "devam etmek.v",
+            "sürdürmek.v",
+            "bakım.n",
+            "devam ettirmek.v",
+            "sürdürmek.v"
+        ]
+    },
+    {
+        "frame_id": 167,
+        "frame_name": "Faaliyetin_duraklaması",
+        "definition": "Bir Fail, bir Faaliyet sırasında duraklar. 'Hükümet, barış görüşmelerini kolaylaştırmak için 1992'de yerleşim inşaatlarını dondurdu.' 'Nükleer dondurmanın kaldırılması, ihtiyaç duyulan elektriği üretmek için gerekli görüldü.'",
+        "lexical_units": [
+            "duraklama.n",
+            "askıya almak.v",
+            "ara vermek.v",
+            "dondurmak.v",
+            "dondurma.n",
+            "moratoryum.n",
+            "ertelemek.v"
+        ]
+    },
+    {
+        "frame_id": 181,
+        "frame_name": "Faaliyetin_duraklatılmış_durumu",
+        "definition": "Bir Fail, faaliyette ilerlemeden bir Faaliyetin belirli bir aşamasında kalır.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 170,
+        "frame_name": "Faaliyete_hazırlık",
+        "definition": "Bir Fail bir Faaliyet için hazırlanır. 'Birlikler kendilerini görev için hazırlıyorlardı.' 'Tekneler iskeleden ayrılmak için hazırlanıyor.'",
+        "lexical_units": [
+            "hazırlanmak.v",
+            "hazır hale gelmek.v",
+            "hazırlamak.v",
+            "düzenlemek.v",
+            "donanmak.v",
+            "hazırlık.n",
+            "kendini toplamak.v"
+        ]
+    },
+    {
+        "frame_id": 169,
+        "frame_name": "Etkinlik_hazır_durumu",
+        "definition": "Kahraman, Etkinliğe dahil olmaya başlamadan önceki bir başlangıç durumundadır, ancak Etkinliğin gerçekleştirilmesi için tüm ön koşullar yerine getirilmiştir. Birçok durumda Kahraman kasıtlı bir faildir, ancak failin geri planda kaldığı ve Kahramanın Etkinlik için temel bir varlık olduğu başka kullanımlar da vardır. Alternatif olarak, Etkinlik, Etkinliğin yerini tutan Belirgin_varlık ile belirtilebilir. Bu Belirgin_varlık da kasıtlı bir fail olabilir, ancak olması gerekmez.",
+        "lexical_units": [
+            "hazır.a",
+            "hazırlıklı.a",
+            "hazır.a"
+        ]
+    },
+    {
+        "frame_id": 1156,
+        "frame_name": "Etkinliğe_devam_etme",
+        "definition": "Bir Fail, bir Etkinliğe katılımını yeniden başlatır. Etkinlikteki ilerleme, kesintiden önceki halinden korunur.",
+        "lexical_units": [
+            "yenilemek.v",
+            "sürdürmek.v",
+            "yeniden başlatmak.v"
+        ]
+    },
+    {
+        "frame_id": 146,
+        "frame_name": "Etkinlik_başlangıcı",
+        "definition": "Bir Fail, sürekli olarak dahil olacağı devam eden bir Etkinliğin başlangıcını başlatır.",
+        "lexical_units": [
+            "başlamak.v",
+            "başlamak.v",
+            "girişmek.v",
+            "yeni başlayan.n",
+            "acemi.n",
+            "girmek.v",
+            "(hızla) başlamak.v",
+            "başlatmak.v",
+            "başlamak.v",
+            "(bir şeye) atılmak.v",
+            "(sohbet vb.) başlatmak.v",
+            "açmak.v",
+            "koyulmak.v",
+            "başlamak.v"
+        ]
+    },
+    {
+        "frame_id": 166,
+        "frame_name": "Etkinliği_durdurma",
+        "definition": "Bir Fail, bir Etkinliği tamamlamadan sona erdirir.",
+        "lexical_units": [
+            "durdurmak.v",
+            "durdurmak.v",
+            "kesmek.v",
+            "sona erdirmek.v",
+            "sonlandırmak.v",
+            "bırakmak.v",
+            "bırakmak.v"
+        ]
+    },
+    {
+        "frame_id": 1580,
+        "frame_name": "Fiilen_gerçekleşen_varlık",
+        "definition": "Bağlamsal olarak belirgin, gerçek olmayan bir dünya (örneğin varsayımsal, hayal edilen, simüle edilen, beklenen, öngörülen veya rüya dünyası) zemininde, gerçek dünyadaki bir ilişki veya olayda karşılaşılan bir Türün Örneği, gerçek olmayan dünyada bulunan örnekten farklı olarak sunulur. Elbette, beklenen Türün gerçek dünyadaki Örneği de gerçekleşmiyor olarak sunulabilir.",
+        "lexical_units": [
+            "gerçek.a",
+            "hakiki.a"
+        ]
+    },
+    {
+        "frame_id": 213,
+        "frame_name": "Bağımlılık",
+        "definition": "Bu çerçeve, bir Bağımlının, bağımlı olduğu madde veya davranış olan Bağımlılık_nesnesine olan fizyolojik veya psikolojik zorunlu bağımlılığı ile ilgilidir.",
+        "lexical_units": [
+            "bağımlı.n",
+            "bağımlı.a",
+            "bağımlılık.n",
+            "dürtüsel.a",
+            "müptela.n",
+            "alışkanlık.n",
+            "keş.n",
+            "alkolik.n",
+            "alkolizm.n",
+            "tutulmuş.a"
+        ]
+    },
+    {
+        "frame_id": 621,
+        "frame_name": "Toplama",
+        "definition": "Bir Bilişçi, girdi Sayıları temelinde toplama yoluyla bir Sonuç hesaplar.",
+        "lexical_units": [
+            "toplamak.v",
+            "toplamak.v",
+            "çetele tutmak.v"
+        ]
+    },
+    {
+        "frame_id": 1601,
+        "frame_name": "Kanıt_gösterme",
+        "definition": "Bir Konuşmacı, bir Rolü dolduran Belirli_bir_varlıktan bahseder, böylece Konuşmacının bir görüşünü destekleyen bilgiler sağlar.",
+        "lexical_units": [
+            "öne sürmek.v",
+            "atıfta bulunmak.v",
+            "işaret etmek.v",
+            "adlandırmak.v"
+        ]
+    },
+    {
+        "frame_id": 2891,
+        "frame_name": "Bitişiklik",
+        "definition": "Bir Şekil, bir Zemin'in bitişiğinde yer alır. Bu, Şekil ve Zemin'in bir bölge oluşturmasına veya bir bölgeyle ilişkilendirilmesine ve her bir bölgenin diğerinin bölgesiyle temas halinde olmasına eşdeğerdir.",
+        "lexical_units": [
+            "bitişik.a",
+            "sınırdaş olmak.v",
+            "komşu olmak.v",
+            "komşu.a",
+            "bitişiklik.n",
+            "bitişik.a",
+            "bitişik olmak.v",
+            "komşu.a",
+            "temas.n",
+            "yanında.prep",
+            "komşu.n",
+            "dayanmak.v",
+            "sınırdaş.a"
+        ]
+    },
+    {
+        "frame_id": 1376,
+        "frame_name": "Ayarlama",
+        "definition": "Bir Fail, Özellikten etkilenen bir Dayatılan_amaç'a ulaşmak için karmaşık bir varlığın bir Parçasını belirli bir Özellik açısından değiştirir. Karmaşık varlık genellikle bir cihaz veya mekanizmadır, ancak ekonomi gibi soyut bir varlık da olabilir.",
+        "lexical_units": [
+            "ayarlamak.v",
+            "ayarlama.n",
+            "ince ayar yapmak.v",
+            "ince ayar.n",
+            "kalibre etmek.v",
+            "kalibrasyon.n"
+        ]
+    },
+    {
+        "frame_id": 1590,
+        "frame_name": "Seçimi_benimseme",
+        "definition": "Bir Failin farklı Değerler alabilen bir Niteliği vardır ve Fail bu Nitelik için bir Değer seçer ve ardından kullanmaya başlar. Nitelik hem fiziksel hem de soyut türleri içerir.",
+        "lexical_units": [
+            "benimsemek.v",
+            "üstlenmek.v",
+            "kucaklamak.v"
+        ]
+    },
+    {
+        "frame_id": 1016,
+        "frame_name": "Estetik",
+        "definition": "Bir Varlık, (genellikle örtük olan) bir Yargıç tarafından duyusal olarak hoş veya entelektüel olarak ilginç bulunur.",
+        "lexical_units": [
+            "güzel.a",
+            "hoş.a",
+            "şık.a",
+            "çirkin.a",
+            "lezzetli.a",
+            "zarif.a",
+            "güzel.a",
+            "yakışıklı.a",
+            "iğrenç.a"
+        ]
+    },
+    {
+        "frame_id": 2974,
+        "frame_name": "Onaylama_veya_reddetme",
+        "definition": "Bir Konuşmacı, bir Mesajın doğruluğunu bir Muhataba onaylamak veya reddetmek için dili kullanır. Bir Konuşmacı yerine bir Ortamdan da bahsedilebilir.",
+        "lexical_units": [
+            "kabul etmek.v",
+            "reddetmek.v",
+            "onaylamak.v",
+            "onaylama.n",
+            "teyit etmek.v",
+            "teyit.n",
+            "inkar.n",
+            "yeniden onaylamak.v",
+            "çürütmek.v",
+            "tanıklık etmek.v"
+        ]
+    },
+    {
+        "frame_id": 972,
+        "frame_name": "Yaş",
+        "definition": "Bir Varlık, Yaş kadar bir süredir var olmuştur. Yaş, yaş Niteliğinin bir değeri olarak karakterize edilebilir veya bir Derece niteleyicisi, Yaşın normdan sapmasını ifade edebilir.",
+        "lexical_units": [
+            "yaşlı.a",
+            "antik.a",
+            "genç.a",
+            "genççe.a",
+            "yaşlıca.a",
+            "yaş.n",
+            "yeni.a",
+            "taze.a",
+            "yaşında.prep",
+            "olgunluk.n",
+            "olgun.a",
+            "yaşlı.a"
+        ]
+    },
+    {
+        "frame_id": 103,
+        "frame_name": "Topluluk",
+        "definition": "Bu çerçeve, Bireylerin Topluluklarını belirten isimleri içerir. Topluluklar bir Topluluk_özelliği ile tanımlanabilir.",
+        "lexical_units": [
+            "ordu.n",
+            "koloni.n",
+            "kuluçka.n",
+            "demet.n",
+            "grup.n",
+            "küme.n",
+            "sürü.n",
+            "ekip.n",
+            "paket.n",
+            "oğul.n",
+            "çokluk.n",
+            "koleksiyon.n",
+            "sürü.n",
+            "sürü.n",
+            "takım.n",
+            "parti.n",
+            "grup.n",
+            "kohort.n",
+            "lejyon.n",
+            "yığın.n",
+            "sınıf.n",
+            "klik.n",
+            "mürettebat.n",
+            "meclis.n",
+            "çeşitlilik.n",
+            "kalabalık.n",
+            "çeşit.n",
+            "çete.n",
+            "kalabalık.n",
+            "çokluk.n",
+            "topluluk.n",
+            "bando.n",
+            "kuluçka.n",
+            "çokluk.n",
+            "sürü.n",
+            "çevre.n",
+            "zümre.n",
+            "aile.n",
+            "kolordu.n",
+            "set.n",
+            "yığın.n",
+            "paket.n",
+            "sürü.n",
+            "sürü.n",
+            "sürü.n",
+            "mahsul.n",
+            "güruh.n",
+            "harem.n",
+            "ordu.n",
+            "stant.n",
+            "repertuar.n",
+            "ekip.n",
+            "küme.n",
+            "şakşakçı grubu.n",
+            "repertuar.n",
+            "nüfus.n",
+            "dörtlü.n",
+            "beşli.n",
+            "üçlü.n",
+            "altılı.n",
+            "flotilla.n",
+            "küme.n",
+            "yığın.n",
+            "topluluk.n",
+            "heyet.n",
+            "kabile.n",
+            "kuvvet.n",
+            "kitap.n",
+            "kombinasyon.n"
+        ]
+    },
+    {
+        "frame_id": 1919,
+        "frame_name": "Yaşlanma",
+        "definition": "Bir Varlık, tipik olarak bazı bozulmalarla veya durum değişiklikleriyle ilişkili bir yaş değişikliği geçirmektedir.",
+        "lexical_units": [
+            "yaşlanan.a",
+            "yaşlanmak.v",
+            "olgunlaşmak.v"
+        ]
+    },
+    {
+        "frame_id": 1625,
+        "frame_name": "Eylemi_kabul_etme_veya_reddetme",
+        "definition": "Bir Konuşmacı, bir Muhatap tarafından önerilen bir Önerilen_eyleme katılmayı kabul eder veya reddeder.",
+        "lexical_units": [
+            "reddetmek.v",
+            "geri çevirmek.v",
+            "ret.n",
+            "kabul etmek.v"
+        ]
+    },
+    {
+        "frame_id": 2012,
+        "frame_name": "Tarım",
+        "definition": "Bu çerçevede bir Tarımcı, Gıda yetiştirir. Tarımcı tarafından Gıdanın yetiştirildiği yer veya Zemin sıklıkla ifade edilir.",
+        "lexical_units": [
+            "yetiştirmek.v",
+            "çiftçilik.n",
+            "çiftçilik yapmak.v"
+        ]
+    },
+    {
+        "frame_id": 1901,
+        "frame_name": "Hedefleme",
+        "definition": "Bir Fail, erişilmesi zor bir Hedef_konum ile doğrudan etkileşime girmesini sağlamak için bir Enstrümanı ayarlar. Genellikle, Hedef_konumda onun yerine bahsedilen bir Hedeflenen varlık vardır.",
+        "lexical_units": [
+            "nişan almak.v",
+            "hedeflemek.v",
+            "amaç.n",
+            "hedef.n",
+            "yöneltmek.v"
+        ]
+    },
+    {
+        "frame_id": 2020,
+        "frame_name": "Hizalama_imge_şeması",
+        "definition": "Bir Hizalama_eşleşmesi bölgesi, nispeten doğrusal olan Zemin ile aynı oryantasyona sahiptir. Hizalama_uyumsuzluğu bölgesi, Zemin'e dik olarak yönlendirilmiştir.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 1574,
+        "frame_name": "İttifak",
+        "definition": "Bir süre ayrı çalıştıktan sonra, iki veya daha fazla kurumsal veya bireysel Üye, bazı ortak Amaçları daha iyi takip edebilmek için bir İttifak içinde organize olurlar. Eskiden ayrı olan Üyeler, Üye_1 ve Üye_2 olarak ayrı ayrı sunulabilir. 'Gevşek bir koalisyon kurdular.'",
+        "lexical_units": [
+            "ittifak.n",
+            "koalisyon.n"
+        ]
+    },
+    {
+        "frame_id": 1931,
+        "frame_name": "Alternatifler",
+        "definition": "Gelecekte gerçekleşebilecek bir dizi farklı olası Durum mevcuttur. (Bazı durumlarda Durum eşzamanlı veya geçmiştedir ve sadece hangisinin gerçekleştiği bilgisi gelecektedir.) Çoğu durumda, olası Durumlardan hangisinin gerçekleşeceğini veya gerçekleşmesi gerektiğini düşünmesi gereken bir Fail söz konusudur. Durumla yakından ilgili olan Belirgin_varlık'tan da bahsedilebilir. 'Kızınız için sadece iki seçeneğiniz var.' Bu çerçevedeki tüm üyeler olası durumları ifade etse de, prensipte bu çerçeve şu temellere dayanarak bir dizi alt türe ayrılabilir: 1. Future.n ve alternative.n ile possibility.n'nin çoğu kullanımı, bir Fail olmaksızın basit bir olası durumdan (mutlaka bir Durum olması gerekmez) başka bir şeyi çağrıştırmaz; geri kalan çerçeveler bundan miras alır. 2. Use.n, bir Belirgin_varlık ile yapılabilecek farklı olası şeyleri (yani Amaçları) çağrıştırır ve bu nedenle Kullanma çerçevesini kullanır; bu çerçevede hedef, ulaşılabilecek Amacı ifade eder. 3. way.n, bir Sonuca (mutlaka bir Amaç olması gerekmez) yol açabilecek farklı olayları çağrıştırır; bu çerçeve Araç çerçevesini kullanmalıdır. Bu çerçevede hedef, olası Araç eylemlerini ifade eder. 4. option.n, choice.n ve alternative.n ile possibility.n'nin birçok örneği, örtük veya açık bir Failin isteyerek gerçekleştirebileceği olası Durumları çağrıştırır. Bu Durumların gerçekleştirilmesiyle hizmet edilecek bir Amaçtan bahsedilebilir. Amaca bağlı bir Belirgin_varlık, Amacın yerini alabilir.",
+        "lexical_units": [
+            "olasılık.n",
+            "yol.n",
+            "seçim.n",
+            "kullanım.n",
+            "alternatif.n",
+            "seçenek.n",
+            "gelecek.n",
+            "şans.n"
+        ]
+    },
+    {
+        "frame_id": 2950,
+        "frame_name": "Alternatiflik",
+        "definition": "Bu çerçevede, konuşmacının öncelikle odaklanmak istediği ve Karşıt_alternatif ile birbirini dışlayan bir Profillenmiş_alternatif vardır. Her ikisinin de aynı bağlamda aynı katılımcılarla doğru olması mümkün değildir, ancak açıklanan durum farklı zamanlarda aynı varlıklar için veya aynı zamanda farklı varlıklar için doğru olabilir. Bu çerçeveden miras alan çerçeveler, örneğin Olumsuzlama, alternatiflerden hangisinin durumun öyle olduğu hayal edildiğini belirtebilir, ancak bu çerçeveyle ilgili diğer çerçevelerde, örneğin Koşullu_senaryo ve Alternatifler, her iki alternatif de olası olarak sunulur ve hangisinin doğru olduğu açık bir soru olarak kalır.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 790,
+        "frame_name": "Birleşme",
+        "definition": "Bu kelimeler, bir Bütün oluşturmak üzere birleşen Parçaları ifade eder. (Parçalar ayrıca Parça_1 ve Parça_2 olarak da kodlanabilir.) Süreçten geçen bileşenler arasında simetrik bir ilişki vardır ve sonrasında Parçalar tüketilir ve artık Bütün içinde kolayca ayırt edilebilen veya ayrılabilen farklı varlıklar değildirler. 'İki damlacık birleşir ve pencere camından aşağı daha da hızlı ilerler.'",
+        "lexical_units": [
+            "birleşme.n",
+            "birleşmek.v",
+            "harmanlamak.v",
+            "birleştirmek.v",
+            "karışmak.v",
+            "kaynaşmak.v",
+            "birbirine karışmak.v",
+            "kaynaşmak.v",
+            "birleşmek.v",
+            "birleştirmek.v",
+            "birleşmek.v",
+            "bir araya gelmek.v",
+            "birleşmek.v",
+            "birleşim.n",
+            "birleşmek.v",
+            "pekişmek.v",
+            "katılmak.v",
+            "karıştırmak.v",
+            "karıştırmak.v"
+        ]
+    },
+    {
+        "frame_id": 1482,
+        "frame_name": "Biriktirme",
+        "definition": "Bir Alıcı (fail olabilir veya olmayabilir), bir Kütle_teması'na (tek bir kütle varlığı olarak kavramsallaştırılabilir veya bir grup bireysel varlık olabilir) sahip olur. Bazı sözcük birimleri (örneğin stockpile) özellikle kasıtlı bir Alıcıyı belirtir. Bu çerçeve, bir grup varlığın aynı yerde bulunmasına neden olmaktan (Toplama çerçevesinde olduğu gibi) ziyade, özellikle varlıkların edinilmesi ve (beklentiye göre) uzun süreli mülkiyetini ifade etmesi bakımından Toplama'dan ayrılır. Özetle, Toplama (ortak) konumlarla ilgilidir, ancak Biriktirme mülkiyetle ilgilidir. 'Bataklıklar binlerce yıl boyunca karbon biriktirir.'",
+        "lexical_units": [
+            "biriktirmek.v",
+            "birikmek.v",
+            "stoklamak.v",
+            "istiflemek.v",
+            "birikim.n"
+        ]
+    },
+    {
+        "frame_id": 1052,
+        "frame_name": "Ortam_sıcaklığı",
+        "definition": "Zaman ve Mekan tarafından belirlenen belirli bir ortamdaki Sıcaklık belirtilir. 'Bugün bir şey yapmak için hava çok sıcak.' 'Nome yılın bu zamanında oldukça soğuktur.' 'Geçen Salı gerçek bir kavurucu sıcaktı.' 'Yarın hava serin olacak.' 'Soğuğa çıkamam.'",
+        "lexical_units": [
+            "serin.a",
+            "soğuk.a",
+            "sıcak.a",
+            "ılık.a",
+            "kavurucu_sıcak.n",
+            "serin.a",
+            "sıcaklık.n",
+            "dondurucu.a",
+            "soğuk.n"
+        ]
+    },
+    {
+        "frame_id": 1565,
+        "frame_name": "Mühimmat",
+        "definition": "Bir Mühimmat parçası, zarar veya hasar verme amacıyla bir silahta mermi olarak ateşlenecek tek kullanımlık bir yapay nesnedir. 'Seksenlik mucidin yeleği zırh delici mermileri geri püskürtüyor.' 'Anti-tank mermileri ateşleyen otomatik yüklü 105 mm'lik bir topla donatılmıştır.' 'Seyreltilmiş uranyum mühimmatı öncelikle ABD ve İngiltere tarafından kullanılmaktadır.'",
+        "lexical_units": [
+            "mühimmat.n",
+            "cephane.n",
+            "mühimmat.n",
+            "mermi.n",
+            "mühimmat.n",
+            "kurşun.n",
+            "kovan.n"
+        ]
+    },
+    {
+        "frame_id": 602,
+        "frame_name": "Miktarına_ulaşma",
+        "definition": "Bir öğenin ölçülebilir bir Niteliğinin mutlak Değeri, öğeyi oluşturan bireylerin veya parçaların Nitelik değerlerinin toplanmasıyla belirlenir. Öğe ayrı bir bileşen olarak ifade edilmez ancak Nitelik kavramı tarafından varsayılır. Alternatif olarak, Sayılar, toplamı küme ile ilişkili Değer olan örtük bir küme oluşturur. Bazı durumlarda bildirilen şey sadece öğeyi oluşturan bireylerin niceliğidir, böylece aslında Değer bir sayımdır. Diğer durumlarda Niteliğin kimliği sadece Değerden çıkarılabilir. Bu çerçevede sahnede bir kavrayıcı yoktur. Bunun yerine çerçeve, hesaplamayı kimin yaptığına bakılmaksızın sabit ve değişmez olan Nitelik veya Sayılar ile Değer arasındaki ilişkiye odaklanır. 'Batı Almanya'da savunma, sayıları yarım milyona yakın erkek ve kadına ulaşan silahlı kuvvetler tarafından sağlanmaktadır.' 'Gelirler toplam 568,86 milyon sterline ulaştı.' 'DSÖ, kümülatif AIDS vakası toplamının 1.500.000'den fazla olduğunu tahmin etti.'",
+        "lexical_units": [
+            "toplamına_ulaşmak.v",
+            "tutmak.v",
+            "toplam.n",
+            "çetele.n",
+            "toplam.a",
+            "sayıca_ulaşmak.v",
+            "miktarında.idio"
+        ]
+    },
+    {
+        "frame_id": 2840,
+        "frame_name": "Hayvanlar",
+        "definition": "Bu çerçevedeki sözcük birimleri, Hayvan FE'si ile etiketlenen, insanlar ve bitkiler dışındaki biyolojik varlıkları ifade eder. 'Kocam ve ben geçen yıl gerçekten tatlı bir köpek sahiplendik.' 'Yolun aşağısındaki çiftlikte yaşayan inekler her zaman yüksek sesle möölüyor.'",
+        "lexical_units": [
+            "köpek.n",
+            "kedi.n",
+            "domuz.n",
+            "inek.n",
+            "koyun.n",
+            "hayvan.n"
+        ]
+    },
+    {
+        "frame_id": 2049,
+        "frame_name": "Rahatsızlık",
+        "definition": "Bir Deneyimleyici, İfade Edici veya Durum, bir Uyarıcı tarafından uyandırılan veya bir Konu ile ilgili bir rahatsızlık hissine sahiptir. 'Peck bölünmeden dolayı rahatsız olmuştu.' 'Maggie onun oldukça sinirli ifadesini fark etti.'",
+        "lexical_units": [
+            "rahatsız_olmuş.a",
+            "sinirlenmiş.a",
+            "hüsrana_uğramış.a"
+        ]
+    },
+    {
+        "frame_id": 504,
+        "frame_name": "Temyiz",
+        "definition": "Ceza yargılamasının Temyiz aşamasında, Mahkum veya Temsilcisi, alt mahkemenin Kararını belirli Gerekçelerle bozmak için bir üst Mahkemeye başvurur. 'Savunma, hakimin 81.b maddesini ihlal ettiği gerekçesiyle mahkemenin kararını temyiz etmeyi planlıyor.' 'John Michaels mahkumiyetini temyiz edecek.'",
+        "lexical_units": [
+            "temyiz.n",
+            "temyiz_etmek.v",
+            "temyiz.a",
+            "temyiz_eden.n"
+        ]
+    },
+    {
+        "frame_id": 2390,
+        "frame_name": "Unvanlar",
+        "definition": "Bu çerçeve sadece bireylerin Unvanları olarak kullanılan kelimeler içindir. Unvan bir İsme (soyadı veya tam ad) uygulanır ve genellikle insan yapımı bir kurum içindeki rütbelerini (örneğin şef, kral, piskopos, kardeş) veya genel sosyal statülerini (bay, bayan) belirtir veya bir akrabalık ilişkisini (kuzen, teyze) gösterebilir. Unvan ve İsim eşleşmeleri seslenme (bkz. Dikkat_çekme) olarak kullanılabilirken, Unvanlar her zaman tek başlarına seslenme olmayabilir. 'Odaya giren General Fightmeister'ı selamladı.' 'Kaptan Jack Aubrey kadeh kaldırırken herkes ayağa kalktı.' 'Yüksek Mahkeme Başyargıcı John Roberts görüşlerine sadık kalıyor.' '1980'deki Buz Üstünde Mucize ABD hokey takımının kaptanı Mike Eruzione bugün 58 yaşına giriyor.' Bu çerçevedeki çoğu sözcük birimi Liderlik veya Akrabalık çerçeveleriyle ilgilidir, ancak bazıları (örneğin Hanımefendi, Bay, Kardeş) sadece burada görülür. Bu sözcük birimleri, Liderlik veya Akrabalık'taki normal sözcük birimi örneklerinden, bireyin genel veya özel sosyal bağlama nasıl uyduğunu belirtmek için sadece seslenme veya isimlerin niteleyicisi olarak kullanılmaları bakımından ayrılır.",
+        "lexical_units": [
+            "subay.n",
+            "general.n",
+            "kaptan.n",
+            "başkan.n",
+            "piskopos.n",
+            "başkan.n",
+            "başkan.n",
+            "şef.n",
+            "komutan.n",
+            "komiser.n",
+            "milletvekili_erkek.n",
+            "milletvekili_kadın.n",
+            "direktör.n",
+            "düşes.n",
+            "imparator.n",
+            "imparatoriçe.n",
+            "yönetici.n",
+            "vali.n",
+            "okul_müdürü.n",
+            "imam.n",
+            "kayser.n",
+            "kral.n",
+            "lider.n",
+            "yasa_koyucu.n",
+            "mihrace.n",
+            "belediye_başkanı.n",
+            "bakan.n",
+            "moğol.n",
+            "hükümdar.n",
+            "yetkili.n",
+            "başbakan.n",
+            "prens.n",
+            "müdür.n",
+            "kraliçe.n",
+            "temsilci.n",
+            "sekreter.n",
+            "şah.n",
+            "şeyh.n",
+            "sultan.n",
+            "denetçi.n",
+            "gözetmen.n",
+            "çar.n",
+            "anne.n",
+            "baba.n",
+            "doktor.n",
+            "dr.n",
+            "bay.n",
+            "bayan.n",
+            "bayan.n",
+            "matmazel.n",
+            "çocuk.n",
+            "teyze.n",
+            "amca.n",
+            "kız_kardeş.n",
+            "erkek_kardeş.n",
+            "kuzen.n"
+        ]
+    },
+    {
+        "frame_id": 236,
+        "frame_name": "Isı_uygulama",
+        "definition": "Bir Aşçı, ısının Sıcaklık_ayarı ve uygulama Süresinin belirtilebildiği Yiyeceğe ısı uygular. Genellikle yer belirten bir ifadeyle gösterilen bir Isıtma_aracı da ifade edilebilir. Bazı pişirme yöntemleri, ısının Yiyeceğe aktarıldığı bir Ortamın (örneğin süt veya su) kullanımını içerir. Semantik olarak daha az belirgin olan bir Yiyecek veya Aşçı, Ortak_katılımcı olarak işaretlenir. 'Sally tereyağında yumurta kızarttı.' 'Sally teflon tavada yumurta kızarttı.' 'Ellen yumurtaları doğranmış domates ve sarımsakla kızarttı.' Bu çerçeve, süreçten kaynaklanan yenilebilir varlıktan ziyade malzemelerin işlenme sürecine odaklanmasıyla Yemek_yaratma'dan ayrılır.",
+        "lexical_units": [
+            "kısık_ateşte_pişirmek.v",
+            "şoklamak.v",
+            "pembeleşinceye_kadar_pişirmek.v",
+            "ızgara_yapmak.v",
+            "hafifçe_haşlamak.v",
+            "hafifçe_pişirmek.v",
+            "haşlamak.v",
+            "yahni_yapmak.v",
+            "kömürleştirmek.v",
+            "suda_pişirmek.v",
+            "kızartmak.v",
+            "sotelemek.v",
+            "mikrodalgada_pişirmek.v",
+            "buharda_pişirmek.v",
+            "kızartmak.v",
+            "ızgara_yapmak.v",
+            "fırınlamak.v",
+            "kaynatmak.v",
+            "yavaş_yavaş_kaynatmak.v",
+            "pişirmek.v",
+            "fırında_pişirmek.v",
+            "mangal_yapmak.v",
+            "bol_yağda_kızartmak.v",
+            "ütülemek.v",
+            "mühürlemek.v",
+            "tahtada_pişirmek.v",
+            "yakmak.v",
+            "kızartma.n",
+            "ızgara.n",
+            "kaynatma.n",
+            "fırınlama.n",
+            "eritme.n",
+            "eritmek.v",
+            "ızgara.n",
+            "kızartma.n",
+            "yavaş_kaynatma.n",
+            "buharda_pişirme.n",
+            "yahni_yapma.n",
+            "fırınlama.n",
+            "pişirme.n"
+        ]
+    },
+    {
+        "frame_id": 1925,
+        "frame_name": "Atama",
+        "definition": "Genellikle liderlik rolündeki bir birey olan Seçici, bir kuruluştaki (Kurum olarak ifade edilebilir) resmi bir Rolü üstlenmesi için bir Yetkili atar. 'Basın sekreterleri gazetecileri oturumlara akredite eder.'",
+        "lexical_units": [
+            "akredite_etmek.v",
+            "atamak.v",
+            "akredite.a",
+            "belirlemek.v",
+            "işaret_etmek.v",
+            "seçmek.v",
+            "adlandırmak.v"
+        ]
+    },
+    {
+        "frame_id": 971,
+        "frame_name": "Mimari_parça",
+        "definition": "Bir varlık, tüm binayı veya sadece binanın bir alt parçasını ifade edebilen (muhtemelen ifade edilmemiş) bir Bütünün Parçası olarak bir binaya entegre edilir. 'Mutfak için yeni tezgahlara ihtiyacımız var' 'Fırtına banyonun çatısını uçurdu'",
+        "lexical_units": [
+            "şömine.n",
+            "zemin.n",
+            "tavan.n",
+            "şömine_rafı.n",
+            "çatı.n",
+            "parmaklık.n",
+            "duvar.n",
+            "tezgah.n",
+            "cephe.n",
+            "temel.n",
+            "merdiven_kolu.n",
+            "sahanlık.n",
+            "pencere.n"
+        ]
+    },
+    {
+        "frame_id": 2234,
+        "frame_name": "Aritmetik",
+        "definition": "Bu çerçeve, Terim1 ve Terim2 olarak etiketlenen iki sayının bazı matematiksel işlemler yoluyla etkileşime girdiği belirli bir matematiksel senaryo türünü tanımlar.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 2245,
+        "frame_name": "Değişmeli_aritmetik",
+        "definition": "Bu çerçeve, değişme özelliğine sahip aritmetik işlem türlerini ve ifadelerini tanımlar, yani işlem iki yönlüdür, örneğin toplama ve çarpma. İlgili terimler ya ayrı ayrı Terim1 ve Terim2 olarak etiketlenir ya da Terimler olarak etiketlenen tek bir isim tamlaması olarak gruplandırılır.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 2236,
+        "frame_name": "Değişmeli_olmayan_aritmetik",
+        "definition": "Bu çerçeve, değişmeli olmayan aritmetik işlem türlerini ve ifadelerini tanımlar, yani işlem tek yönlüdür, örneğin çıkarma ve bölme. Değişmeli olmayan doğası nedeniyle, terimler birleşik bir Terimler FE'si yerine Terim_1 ve Terim_2 şeklinde birbirinden ayrılmalıdır.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 2602,
+        "frame_name": "Zırh",
+        "definition": "Güvenliği arzu edilen bir Varlık, bir örtü olan Zırh ile hasardan korunur. Zırh, Varlığın bir kısmını veya tamamını kaplar ve yaklaşan bir Tehlikeden gelen kuvveti emmek üzere tasarlanmıştır. 'İlkel ahşap zırhtan başka bir şey giymiyorlardı.' 'Askerlerin balistik zırhı ekstra bir güvenlik seviyesi sağlıyor.'",
+        "lexical_units": [
+            "zırh.n",
+            "zincir_zırh.n",
+            "kurşun_geçirmez_yelek.n",
+            "tozluk.n",
+            "çelik_yelek.n",
+            "plaka_zırh.n"
+        ]
+    },
+    {
+        "frame_id": 120,
+        "frame_name": "Mahkemeye_çıkarma",
+        "definition": "Bir mahkeme duruşmasında, bir Sanık kendisine yöneltilen Suçlamalar hakkında bilgilendirilir, (genellikle) bir savunma yapar ve bir Hakim tarafından varsa kefalet miktarı konusunda bir karar verilir. 'Mortimer ve Isabella aceleyle götürüldüler ve Kasım ayında parlamento önünde mahkemeye çıkarıldılar.' 'Mahkeme temyizi reddederse, 19 genç güneydeki Port Harcourt şehrindeki mahkemede cinayet suçlamasıyla mahkemeye çıkarılacak.'",
+        "lexical_units": [
+            "mahkemeye_çıkarmak.v",
+            "mahkemeye_çıkarma.n"
+        ]
+    },
+    {
+        "frame_id": 921,
+        "frame_name": "Düzenleme",
+        "definition": "Bir Fail, karmaşık bir Temayı; uygun bir sıra, doğru veya elverişli bir dizi veya mekansal bir konum olabilen belirli bir Yapılandırmaya yerleştirir. 'Elementleri bugün periyodik tablo dediğimiz düzende düzenledi.' 'Onları önem sırasına göre dizmeye çalışın.'",
+        "lexical_units": [
+            "düzenlemek.v",
+            "düzenleme.n",
+            "dizmek.v",
+            "konuşlandırmak.v",
+            "konuşlandırma.n",
+            "biçimlendirmek.v",
+            "kurmak.v",
+            "sıralamak.v",
+            "hizalamak.v"
+        ]
+    },
+    {
+        "frame_id": 202,
+        "frame_name": "Tutuklama",
+        "definition": "Yetkililer, bir suç işlediğinden şüphelenilen (Suçlamalar) bir Şüpheliyi suçlar ve onu gözaltına alır. 'Polis, Harry'yi kasıtsız adam öldürme suçlamasıyla tutukladı.'",
+        "lexical_units": [
+            "tutuklamak.v",
+            "yakalamak.v",
+            "basmak.v",
+            "enselemek.v",
+            "yakasına yapışmak.v",
+            "paketlemek.v",
+            "tutuklama.n",
+            "baskın.n",
+            "yakalama.n",
+            "kayda geçirmek.v",
+            "celp etmek.v"
+        ]
+    },
+    {
+        "frame_id": 54,
+        "frame_name": "Varış",
+        "definition": "Bir nesne olan Tema, bir Hedef yönünde hareket eder. Hedef ifade edilebilir veya bağlamdan anlaşılabilir, ancak her zaman fiilin kendisi tarafından ima edilir. 'Bazı öğrenciler Pazar günü okula vardı.' 'Vikinglerin geri çekilmesini sağlayan şey, onun 837'de Nijmegen'e varışıydı.'",
+        "lexical_units": [
+            "yaklaşım.n",
+            "yaklaşmak.v",
+            "varış.n",
+            "varmak.v",
+            "gelmek.v",
+            "girmek.v",
+            "giriş.n",
+            "dönüş.n",
+            "dönmek.v",
+            "ziyaret.n",
+            "ziyaret etmek.v",
+            "ulaşmak.v",
+            "yapmak.v",
+            "gitmek.v",
+            "başarmak.v",
+            "baskın yapmak.v",
+            "zirveye ulaşmak.v",
+            "giriş.n",
+            "akın.n",
+            "isabet etmek.v",
+            "görünmek.v",
+            "bulmak.v"
+        ]
+    },
+    {
+        "frame_id": 138,
+        "frame_name": "Kundakçılık",
+        "definition": "Bir Fail, genellikle bu mülk üzerinden bir sigorta ödemesi almak amacıyla, kendisine veya başkasına ait bir mülkü kasten ateşe verir. 'İki adam kundakçılıkla suçlandı.'",
+        "lexical_units": [
+            "kundakçılık.n",
+            "kundakçı.n"
+        ]
+    },
+    {
+        "frame_id": 421,
+        "frame_name": "Yapay_nesne",
+        "definition": "Bir Yapay_nesne, belirli bir Kullanım türü için akıllı bir varlık tarafından kasıtlı olarak yapılır veya değiştirilir. Yapay_nesnenin Oluşturucusu, Oluşturulma_zamanı, Adı, Türü ve yapıldığı Malzeme gibi çeşitli özellikleri belirtilebilir. Yapay_nesne fiziksel bir varlık olabilir veya olmayabilir. 'Kim Il Sung'un Çin'den nükleer silah teknolojisini paylaşmasını istediğine dair raporlar var.'",
+        "lexical_units": [
+            "tekerlek.n",
+            "teknoloji.n",
+            "biyoteknoloji.n",
+            "yapay nesne.n",
+            "kontrol paneli.n",
+            "tahta.n",
+            "oyun tahtası.n",
+            "spatula.n",
+            "çırpıcı.n",
+            "küvet.n",
+            "zamanlayıcı.n",
+            "fırın.n",
+            "telefon.n"
+        ]
+    },
+    {
+        "frame_id": 2470,
+        "frame_name": "Yapay_nesne_alt_parçası",
+        "definition": "Bir Bileşen, bir dizi farklı Bileşenden monte edilmedikçe tamamlanmış sayılmayan karmaşık bir Yapay_nesnenin işleyişinde belirgin bir İşleve sahiptir. Her Bileşen ayrıca Oluşturucusu, Oluşturulma_zamanı veya Malzemesi ile tanımlanabilir. 'Maliyetin çoğu motor parçalarının fiyatından kaynaklanıyor.' '1982'den kalma metal bir parça bulmamız gerekecek.'",
+        "lexical_units": [
+            "parça.n"
+        ]
+    },
+    {
+        "frame_id": 1660,
+        "frame_name": "Yapaylık",
+        "definition": "Bir Varlık, kategori üyeliğinin şüpheli olduğu bir bağlamda belirli bir Referans_kategorisine ait olup olmadığına göre değerlendirilir. Referans_kategorisi üyeliğini değerlendirmek için ilgili kriter veya kriterler, bireysel sözcük birimlerine ve/veya bağlama bağlıdır. Tipik olarak, Varlığın malzeme bileşimi, oluşturulma yöntemi veya oluşturucularının kimliği (ve uygun yetkisi) uygun kategori üyeliği için kritiktir. Varlık teriminin davranışları da kapsadığını unutmayın.",
+        "lexical_units": [
+            "yapay.a",
+            "sahte.a",
+            "düzmece.a",
+            "kalp.a",
+            "yanlış.a",
+            "hakiki.a",
+            "ikame.a",
+            "sahtekar.n",
+            "psödo.a",
+            "uydurma.a",
+            "gerçek.a",
+            "asıl.a",
+            "doğru.a",
+            "samimiyetsiz.a"
+        ]
+    },
+    {
+        "frame_id": 2490,
+        "frame_name": "Sanatsal_üslup",
+        "definition": "Bu çerçeve, bir Sanat eserinin temsil ettiği Formu ifade eden sözcük birimlerini içerir. Form ayrıca bir Sanatçının tüm eserlerini de temsil edebilir. Form, bazı Sanat eserlerinin oluşturulma Zamanı veya diğer Tanımlayıcılar ile daha fazla karakterize edilebilir. 'Resim tarzı, geleneksel ve modernin mükemmel bir karışımıdır.' 'Bu parçanın tuhaf tarzı çok etkileyici.'",
+        "lexical_units": [
+            "üslup.n",
+            "ses.n",
+            "görünüm.n",
+            "düzen.n"
+        ]
+    },
+    {
+        "frame_id": 2237,
+        "frame_name": "Toplanma",
+        "definition": "Bu çerçevede, bir grup Birey bir Grup oluşturmak için kasıtlı olarak bir araya gelir. Alternatif olarak, dilbilgisel olarak daha belirgin bir Taraf_1, dolaylı bir tümleç olarak ifade edilen bir Taraf_2 ile bir araya gelir. Bu asimetrik yorum seçilirse, Amaç yalnızca Taraf_1 ile ilgilidir. 'Gelecek planlarımız hakkında konuşmak için avluda toplandık.' 'Çalışma grubumuz bugün dışarıda toplanıyor.'",
+        "lexical_units": [
+            "buluşmak.v",
+            "toplanmak.v",
+            "bir araya gelmek.v"
+        ]
+    },
+    {
+        "frame_id": 519,
+        "frame_name": "Değerlendirme",
+        "definition": "Bir Değerlendirici, bir Olgunun özelliğine göre Değerini belirlemek için Olguyu inceler. Bu Değer, Olgunun kabul edilebilirliğini belirlemede bir faktördür. Bazı durumlarda, Olgunun Değerini belirlemek için (örtük olarak bir Değerlendiriciyi içeren) bir Yöntem kullanılır. 'Her şirket daha sonra kazanç potansiyelleri açısından değerlendirilir.' 'Seçeneklerini dikkatlice tarttı.'",
+        "lexical_units": [
+            "değerlendirmek.v",
+            "derecelendirmek.v",
+            "ölçüp biçmek.v",
+            "not vermek.v",
+            "değerlendirme.n",
+            "analiz.n",
+            "tartmak.v",
+            "yargılamak.v",
+            "değer biçmek.v",
+            "sıralamak.v",
+            "yeniden değerlendirmek.v",
+            "paha biçmek.v",
+            "ekspertiz.n",
+            "yeniden inceleme.n"
+        ]
+    },
+    {
+        "frame_id": 2628,
+        "frame_name": "Atanmış_konum",
+        "definition": "Bir Bireye, genellikle bir görevi yerine getirmek için kalacağı bir İstasyon atanır. İstasyonun özelliklerine dayalı olarak amaçlanan bir kullanımı olabilir (örneğin, bir satıcı tezgahı) veya geçici olarak bir kullanım atanabilir. 'İstasyonlarında kalan gardiyanların iki kat aşağıda neler olup bittiği hakkında hiçbir fikirleri yoktu.' 'Görev yerinize dönün!'",
+        "lexical_units": [
+            "istasyon.n",
+            "mevki.n",
+            "yer.n"
+        ]
+    },
+    {
+        "frame_id": 391,
+        "frame_name": "Yardım",
+        "definition": "Bir Yardımcı, Faydalanan_tarafın sahip olduğu bir Hedefin sonuçlanmasını sağlayarak Faydalanan_tarafa fayda sağlar. Hedefe ulaşmada yer alan bir Odak_varlık, onun yerini tutabilir. Bu Çerçeve benzersiz Çerçeveler Arası İlişkilere sahiptir: Kasten_hareket_etme çerçevesinden miras alır ve onu kullanır. 'Hükümetin kardeşini bulmasına yardım edecek misin?' 'Belki Stephen son el yazmasında ona yardım etmeli.'",
+        "lexical_units": [
+            "yardım etmek.v",
+            "desteklemek.v",
+            "yataklık etmek.v",
+            "imdadına yetişmek.v",
+            "yardımsever.a",
+            "yardım.n",
+            "destek.v",
+            "yardım eylemi.n",
+            "el atmak.v",
+            "hizmet etmek.v",
+            "hitap etmek.v",
+            "destek.n",
+            "yardım birimi.n",
+            "yardım ve yataklık etmek.v"
+        ]
+    },
+    {
+        "frame_id": 226,
+        "frame_name": "Asimetrik_karşılıklılık",
+        "definition": "Kahraman_1'in Kahraman_2 üzerinde hareket ettiği veya onunla ilişkili olduğu Karşılıklılık perspektifi. İlişki veya olay asimetrik olarak yorumlanır, çünkü Kahraman_1 (konuşma, katılma gibi) faillik söz konusu olduğunda daha fail olarak sunulur ve Kahraman_2 daha pasif olarak sunulur. Karşılaştırma veya diğer ilişkilerde, Kahraman_2 genellikle zamansal olarak daha istikrarlı olduğu ve/veya daha belirgin olduğu için Kahraman_1 için bir referans olarak uygun görülür.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 388,
+        "frame_name": "Kefaret",
+        "definition": "Bir Fail geçmişte bir Yanlış yapmıştır ve bunun için Telafi yapmaktadır. Telafinin yeterlilik Derecesi de ifade edilebilir. 'Günahının kefaretini iyi işlerle ödedi.'",
+        "lexical_units": [
+            "kefaret ödemek.v",
+            "kefaret.n",
+            "günah çıkarmak.v",
+            "günah çıkarma.n",
+            "kefaret edici.a",
+            "günah çıkartan.n",
+            "kefaret ödeyen.n"
+        ]
+    },
+    {
+        "frame_id": 197,
+        "frame_name": "Bağlama",
+        "definition": "Bağlama çerçevesi iki durumu kapsar: birinin bir şeyi fiziksel olarak başka bir şeye bağlanmasına neden olduğu bir sahne; veya birinin iki şeyin birbirine bağlanmasına neden olduğu bir sahne. İlkinde çerçeve, bir Bağlayıcıyı manipüle ederek bir Öğeyi bir Hedefe bağlayan bir Fail içerir. İkincisinde Fail, iki Öğeyi birbirine bağlayarak aralarında simetrik bir ilişki oluşturur. Her iki durumda da Bağlayıcı, yeni bir varlık oluşturmadan iki varlığı bağlamak için kalır. 'Soyguncu Harry'yi sandalyeye bağladı.'",
+        "lexical_units": [
+            "sabitlemek.v",
+            "bağlamak.v",
+            "düğümlemek.v",
+            "raptiyelemek.v",
+            "yapıştırmak.v",
+            "zımbalamak.v",
+            "bantlamak.v",
+            "iğnelemek.v",
+            "çivilemek.v",
+            "iliştirmek.v",
+            "zincirlemek.v",
+            "macunlamak.v",
+            "dikmek.v",
+            "saplamak.v",
+            "sarmak.v",
+            "birleştirmek.v",
+            "sıkıştırmak.v",
+            "emniyete almak.v",
+            "kaynaştırmak.v",
+            "prangalamak.v",
+            "ciltlemek.v",
+            "ayırmak.v",
+            "kelepçelemek.v",
+            "el kelepçesi takmak.v",
+            "kösteklemek.v",
+            "perçinlemek.v",
+            "bağlamak.v",
+            "çimentolamak.v",
+            "zamklamak.v",
+            "sabitlemek.v",
+            "kaynak yapmak.v",
+            "lehimlemek.v",
+            "topaklaştırmak.v",
+            "palamarlamak.v",
+            "demirlemek.v",
+            "eklenti.n",
+            "takmak.v",
+            "bağlama.n",
+            "çözmek.v",
+            "kancalamak.v",
+            "sıvamak.v",
+            "ekleme eylemi.n",
+            "kayışla bağlamak.v",
+            "yapışmak.v",
+            "eklemek.v",
+            "ardışık bağlamak.v",
+            "iliştirmek.v",
+            "boyunduruk geçirmek.v",
+            "sarmak.v",
+            "ilişkilendirmek.v",
+            "bağlamak.v",
+            "katılmak.v",
+            "monte etmek.v",
+            "telle bağlamak.v",
+            "paranteze almak.v"
+        ]
+    },
+    {
+        "frame_id": 424,
+        "frame_name": "Saldırı",
+        "definition": "Bir Saldırgan, bir Kurbana (genellikle duyarlı olan) fiziksel olarak saldırarak Kurbana fiziksel zarar verir veya vermeyi amaçlar. Saldırgan tarafından kullanılan bir Silahın yanı sıra olağan Yer, Zaman, Amaç vb. de belirtilebilir. 'Bardan çıkar çıkmaz kar maskeli dört adamın saldırısına uğradı.' 'Jon-O'nun kuvvetleri onlara sol kanattan pusu kurdu.'",
+        "lexical_units": [
+            "saldırmak.v",
+            "darp etmek.v",
+            "darp.n",
+            "saldırı.n",
+            "üstüne çullanmak.v",
+            "akın.n",
+            "ofansif.n",
+            "başlangıç.n",
+            "vuruş.n",
+            "şiddetli saldırı.n",
+            "hücum etmek.v",
+            "hücum.n",
+            "girişmek.v",
+            "üzerine yürümek.v",
+            "fırtına gibi esmek.v",
+            "vurmak.v",
+            "pusuya düşürmek.v",
+            "pusu.n",
+            "üstüne atlamak.v",
+            "sataşmak.v",
+            "baskın yapmak.v",
+            "bombalamak.v",
+            "bombalama.n",
+            "baskın.n",
+            "saldırgan.n",
+            "saldırgan.a",
+            "sızmak.v",
+            "sızma.n",
+            "isabet.v",
+            "ateş.n",
+            "hafif silah ateşi.n",
+            "SAF.n",
+            "safire.n",
+            "araçtan ateş açma.n",
+            "hava saldırısı.n",
+            "mütecaviz.n",
+            "bombardıman.n",
+            "bombardıman etmek.v"
+        ]
+    },
+    {
+        "frame_id": 116,
+        "frame_name": "Girişim",
+        "definition": "Bir Fail bir Hedefe ulaşmaya çalışır. Sonuç da açıkça belirtilebilir. 'John Everest Dağı'na tırmanmaya girişti.' 'Everest Dağı'na tırmanmak için başarısız bir girişimdi.'",
+        "lexical_units": [
+            "girişim.n",
+            "girişmek.v",
+            "çabalamak.v",
+            "çaba.n",
+            "denemek.v",
+            "deneme.n",
+            "gayret.n",
+            "hamle.n",
+            "üstlenmek.v",
+            "deneme.n",
+            "atış.n",
+            "arayış.n",
+            "zorlama.n"
+        ]
+    },
+    {
+        "frame_id": 3020,
+        "frame_name": "Girişim_eylemi_senaryosu",
+        "definition": "Bu çerçeve, bir Failin bir Hedefi olduğu ve Hedefe ulaşacağına inandığı bazı Araç eylemlerini gerçekleştirdiği bir Girişimin temel eylemini temsil eder.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 1900,
+        "frame_name": "Uzaktan_etkileşim_girişimi_senaryosu",
+        "definition": "Bir Fail, bir Enstrüman kullanarak nispeten uzak veya dolaylı olarak erişilebilen bir Hedefle etkileşime girmeye çalışır. Failin Enstrümanı manipüle etme ve Hedef konuma yerleştirme yeteneği söz konusudur.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 2132,
+        "frame_name": "Girişim_araçları",
+        "definition": "Bir Fail, bazı Araçları kullanarak bir Hedefe ulaşmaya çalışır. 'John kapıyı açmak için levye kullanmayı denedi.' Girişim çerçevesinden farklı olarak, Araç üzerine odaklanılır ve Hedef genellikle örtüktür. Bu çerçeve, neyin denendiğinden ziyade bir şeyin nasıl deneneceği sorusuna cevap verir.",
+        "lexical_units": [
+            "denemek.v",
+            "bir denemek.idio"
+        ]
+    },
+    {
+        "frame_id": 2007,
+        "frame_name": "Gıda_elde_etme_senaryosu",
+        "definition": "Bir Arayıcı, bir Zemin bağlamında Gıda elde etmeye çalışır ve onu arar.",
+        "lexical_units": [
+            "geçim.n"
+        ]
+    },
+    {
+        "frame_id": 2221,
+        "frame_name": "Mineral_elde_etme_senaryosu",
+        "definition": "Bir Fail; genellikle katı mineraller veya metaller, ancak aynı zamanda petrol, su ve diğer değerli maddeler gibi yenilenemeyen bir kaynağı elde etmeye çalışır.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 87,
+        "frame_name": "İkna_çabası",
+        "definition": "Konuşmacı, Muhatabın İçerik'te açıklanan olayların veya durumların gerçekleşmesine yardımcı olacak şekilde hareket etmesini sağlama arzusunu dil aracılığıyla ifade eder. Muhatabın harekete geçme niyeti oluşturduğuna, hatta harekete geçtiğine dair bir ima yoktur.",
+        "lexical_units": [
+            "teşvik etmek.v",
+            "uyarmak.v",
+            "tavsiye etmek.v",
+            "yalvarmak.v",
+            "ikna etmek.v",
+            "nasihat etmek.v",
+            "baskı yapmak.v",
+            "galip gelmek.v",
+            "zorlamak.v",
+            "baskı.n",
+            "kulis yapmak.v",
+            "savunmak.v",
+            "önermek.v",
+            "tavsiye etmek.v",
+            "öneri.n",
+            "emretmek.v"
+        ]
+    },
+    {
+        "frame_id": 1683,
+        "frame_name": "Deneme_ve_çözme_senaryosu",
+        "definition": "Bir Failin aklında belirli bir Hedef vardır ve ardından Hedefe ulaşacağını düşündüğü bazı Araçlar kullanır. Fail, Araç eyleminin sonucu Hedefle ne kadar eşleşirse o kadar başarılı olur veya başarısız olur.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 2030,
+        "frame_name": "Katılma",
+        "definition": "Bir Fail bir Etkinliğe gider ve nispeten katılımcı olmayan bir şekilde orada bulunur.",
+        "lexical_units": [
+            "katılmak.v",
+            "gitmek.v",
+            "katılım.n"
+        ]
+    },
+    {
+        "frame_id": 791,
+        "frame_name": "Dikkat",
+        "definition": "Bu çerçeve, bir Algılayıcının bir Zemin içindeki bir Şekle dair izlenimleri işleme ve değerlendirme konusundaki hazır olma durumuyla ilgilidir. Şeklin Zemin içinde var olup olmadığı genellikle Algılayıcı tarafından bilinmez. Alternatif olarak, İfade Edici, Algılayıcının dikkat durumunun belirtilerini gösteriyor olarak ifade edilebilir.",
+        "lexical_units": [
+            "tetikte.a",
+            "ilgilenmek.v",
+            "dikkat.n",
+            "dikkatli.a",
+            "yakından.adv",
+            "yakın.a",
+            "göz kulak olmak.v",
+            "görmezden gelmek.v"
+        ]
+    },
+    {
+        "frame_id": 305,
+        "frame_name": "Dikkat_çekme",
+        "definition": "Bu çerçeve, Ünlemler (örn. hey, yo) ve belirli hitap terimleri (Hitap_terimi) dahil olmak üzere birinin dikkatini çekmek için kullanılan terimleri kapsar; ikincisi dikkat çekme işlevi görebilir.",
+        "lexical_units": [
+            "arkadaş.n",
+            "beyefendi.n",
+            "hanımefendi.n",
+            "ahbap.n",
+            "çocuk.n",
+            "dostum.n",
+            "oğlan.n",
+            "adam.n",
+            "matmazel.n",
+            "kardeş.n",
+            "hemşerim.n",
+            "huu.intj",
+            "merhaba.intj",
+            "affedersiniz.intj",
+            "hey.intj",
+            "memur bey.n"
+        ]
+    },
+    {
+        "frame_id": 2713,
+        "frame_name": "Tutum_açıklaması",
+        "definition": "Bu çerçevedeki sözlük birimleri, bir Bilişselcinin bir Durum hakkındaki Tutumu veya bakış açısının açıklamalarıdır.",
+        "lexical_units": [
+            "iyimser.a",
+            "kötümser.a",
+            "umutlu.a",
+            "olumlu.a",
+            "olumsuz.a",
+            "umutsuz.a",
+            "karanlık.a"
+        ]
+    },
+    {
+        "frame_id": 1148,
+        "frame_name": "Atfedilen_bilgi",
+        "definition": "Bir Önerme, bir Konuşmacıya veya bir Metne atfedilir.",
+        "lexical_units": [
+            "-e göre.prep",
+            "kaynak.n",
+            "bakış açısı.n",
+            "yetkiye dayanarak.idio"
+        ]
+    },
+    {
+        "frame_id": 964,
+        "frame_name": "Nitelikler",
+        "definition": "Bir Varlık, belirli bir Değere sahip belirli bir Niteliğe sahiptir. Bu çerçeve öncelikle kalıtım içindir.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 2451,
+        "frame_name": "Otorite",
+        "definition": "Bir Fail, belirli bir Alan doğrultusunda bir Temayı etkileme araçlarına sahiptir. Belirli bir Alan içinde, Faili (genellikle bir Kaynak nedeniyle) Temaya karşı kayıran bir etki veya güç dengesizliği vardır.",
+        "lexical_units": [
+            "güç.n",
+            "otorite.n",
+            "yargı yetkisi.n",
+            "nüfuz.n",
+            "egemenlik.n"
+        ]
+    },
+    {
+        "frame_id": 274,
+        "frame_name": "Kaçınma",
+        "definition": "Bir Fail, belirli Koşullar altında İstenmeyen_bir_durumdan kaçınır. Bu durum bir faaliyet (örn. okula gitmek) veya bu tür bir faaliyet veya durum için metonimik (belki) bir varlık (örn. kaldırım kenarı) olabilir. Bu çerçevede, durum Failin bakış açısından istenmeyendir (örn. savuşturmak) ve durumun özellikle başkası için istenmeyen olduğu (örn. sakınmak) veya dış bir ahlakın bakış açısından (örn. feragat etmek) olduğu sahnelerle tezat oluşturur.",
+        "lexical_units": [
+            "kaçınmak.v",
+            "savuşturmak.v",
+            "atlatmak.v",
+            "sakınmak.v",
+            "kurtulmak.v",
+            "kaytarmak.v",
+            "uzak durmak.v",
+            "yan çizmek.v",
+            "teğet geçmek.v",
+            "kaçınma.n",
+            "yan çizme.n",
+            "savuşturma.n",
+            "çekinmek.v",
+            "vazgeçmek.v",
+            "geri durmak.v",
+            "bırakmak.v",
+            "uzaklaşmak.v",
+            "uzak tutmak.v"
+        ]
+    },
+    {
+        "frame_id": 19,
+        "frame_name": "Farkındalık",
+        "definition": "Bir Bilişselci, dünya modellerinde bir İçerik parçasına sahiptir. İçerik, mutlaka doğrudan algılama nedeniyle değil, genellikle algılanabilir olanlardan yapılan çıkarım nedeniyle mevcuttur. Bazı durumlarda, İçeriğin çıkarımı örtük olarak bilgi kaynaklarına olan güvene (inanmak), bazı durumlarda mantığa (düşünmek) dayanır ve diğer durumlarda çıkarımın kaynağı profilsizleştirilir (bilmek).",
+        "lexical_units": [
+            "farkında.a",
+            "farkındalık.n",
+            "inanmak.v",
+            "kavramak.v",
+            "kavrayış.n",
+            "tasavvur etmek.v",
+            "tasavvur.n",
+            "bilinçli.a",
+            "önsezi.n",
+            "hayal etmek.v",
+            "bilmek.v",
+            "bilgi.n",
+            "bilgili.a",
+            "varsaymak.v",
+            "varsayım.n",
+            "tahmin etmek.v",
+            "farz etme.n",
+            "şüphelenmek.v",
+            "şüphe.n",
+            "düşünmek.v",
+            "düşünce.n",
+            "anlamak.v",
+            "anlayış.n",
+            "cehalet.n",
+            "bilinç.n",
+            "haberdar.a",
+            "bilinmeyen.a",
+            "fikir.n"
+        ]
+    },
+    {
+        "frame_id": 2592,
+        "frame_name": "Farkındalık_durumu",
+        "definition": "Bir Bilişselci, algılanabilir olanlardan bilgiye ulaşma konusundaki çıkarım, sonuç çıkarma veya benzeri yollarla dünya modellerinde bir İçerik parçasına sahiptir.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 2593,
+        "frame_name": "Farkındalık_statüsü",
+        "definition": "Bazı İçerikler, bir Bilişselcinin zihinsel modelinin bir parçasıdır. Bilişselci zihinsel modele doğrudan algılama yoluyla değil, algılanan fenomenlerden akıl yürüterek ulaşır. Alternatif olarak, belirli bir nesnenin Rolünün o nesne için geçerli olduğu bilinmektedir.",
+        "lexical_units": [
+            "bilinen.a",
+            "şüphelenilen.a",
+            "varsayılan.a",
+            "mümkün.a"
+        ]
+    },
+    {
+        "frame_id": 121,
+        "frame_name": "Kefalet_kararı",
+        "definition": "Bu çerçeve, bir Yargıcın Sanığın kefaletle serbest bırakılıp bırakılmayacağına ve eğer öyleyse kefalet miktarının ne olması gerektiğine karar verdiği bir ceza süreci adımını kapsar.",
+        "lexical_units": [
+            "belirlemek.v",
+            "saptamak.v",
+            "emretmek.v",
+            "kefalet.n",
+            "teminat.n"
+        ]
+    },
+    {
+        "frame_id": 1160,
+        "frame_name": "Nitelik_temeli",
+        "definition": "Bir Yer İşareti hakkındaki bir bilgi parçası, Hareketli Nesne hakkında benzer bir bilgi türünü belirlemek veya iletmek için daha erişilebilir ve yararlı olarak sunulur. Bir durumun bu yorumunda, (daha fazla) profillenmiş bir öğe olan Hareketli Nesne ve profillenmemiş veya daha az profillenmiş bir öğe olan Yer İşareti vardır. Şematik olarak tanımlanmış bir Profillenmiş_bölge (Yer İşareti ile önceden tanımlanmış bir ilişkiye sahip) ile birleştiğinde, Yer İşareti, Hareketli Nesnenin durumunu veya konumunu anlamak için temel oluşturur.",
+        "lexical_units": []
+    },
+    {
+        "frame_id": 1380,
+        "frame_name": "Eylemde_anlaşma",
+        "definition": "İki (veya daha fazla) kişi (Taraflar, ayrıca Taraf_1 ve Taraf_2 olarak kodlanabilir) bir anlaşmaya sahiptir. Her iki tarafın da bir Yükümlülüğe bağlılığı olduğu varsayılır; ilişki simetrik veya karşılıklı olarak anlaşılır. Yükümlülüğün özel olarak belirtilmesi yerine, kapsanan alanı belirtmek için bir Konu ifadesi kullanılabilir.",
+        "lexical_units": [
+            "antlaşma.n",
+            "anlaşma.n",
+            "uzlaşma.n",
+            "mutabakat.n",
+            "sözleşme.n",
+            "varmak.v"
+        ]
+    },
+    {
+        "frame_id": 1496,
+        "frame_name": "Değerlendirmede_anlaşma",
+        "definition": "Bilişselcilerin Görüşlerinde bir benzerlik (veya farklılık) vardır. Bilişselciler ayrı ayrı ifade edilebilir, Bilişselci_2, Bilişselci_1'in Görüşünü oluşturmak için temel teşkil eder. Belirli bir Görüş yerine, benzer veya farklı bir Görüşün tutulduğu bir fenomen olan Konu belirtilebilir. Bilişselcilerin Görüşleri bir Soruya cevap olarak anlaşıldığında belirli bir Görüşten bahsedilmeyebilir.",
+        "lexical_units": [
+            "katılmak.v",
+            "aynı fikirde olmak.v",
+            "hemfikir olmak.v",
+            "anlaşma.n"
+        ]
+    },
+    {
+        "frame_id": 2723,
+        "frame_name": "Tetikte_olma",
+        "definition": "Bir Kahraman olası bir Tehlikenin (tehlikeli bir olay veya Kahramana zarar verecek bir olaya katılabilecek Tehlikeli_varlık) farkına varmıştır ve bu Tehlikeye yanıt olarak bir Faaliyette bulunmaya hazırdır.",
+        "lexical_units": [
+            "alarm.n",
+            "nöbet.n"
+        ]
+    }
+]
