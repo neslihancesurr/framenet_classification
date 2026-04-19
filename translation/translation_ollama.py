@@ -5,7 +5,7 @@ import os
 import requests
 
 # 1. Setup
-OLLAMA_URL = "http://localhost:11434/api/generate"
+OLLAMA_URL = "local host URL"
 MODEL_ID = "gemma3"
 INPUT_FILE = '../data/Synsets_Definitions.csv'
 OUTPUT_FILE = 'discarded/translated_results_ollama.json'

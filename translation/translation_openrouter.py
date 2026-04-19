@@ -11,13 +11,13 @@ import requests
 PROVIDER = "openrouter"  # "ollama" or "openrouter"
 
 OLLAMA_CONFIG = {
-    "url": "http://localhost:11434/api/generate",
+    "url": "local host url",
     "model": "gemma3",
 }
 
 OPENROUTER_CONFIG = {
     "url": "https://openrouter.ai/api/v1/chat/completions",
-    "api_key": "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",
+    "api_key": "API Key",
     "model": "google/gemma-4-26b-a4b-it:free",  # Any model slug from openrouter.ai/models
 }
 

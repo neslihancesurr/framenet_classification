@@ -7,7 +7,7 @@ import os
 
 # 1. Setup
 # IMPORTANT: Revoke the old key and load the new one from environment variables!
-client = genai.Client(api_key="AIzaSyA3mluyGn00-h9drf8Dioe-G1jUhj9rkUU")
+client = genai.Client(api_key="API KEY")
 MODEL_ID = "gemini-3-flash-preview"
 INPUT_FILE = '../data/framenet_data.json'
 OUTPUT_FILE = 'discarded/translated_frames_gemini3.json'

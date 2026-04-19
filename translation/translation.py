@@ -20,7 +20,7 @@ import os
 
 
 # 1. Setup
-client = genai.Client(api_key="AIzaSyA3mluyGn00-h9drf8Dioe-G1jUhj9rkUU")
+client = genai.Client(api_key="API-key")
 MODEL_ID = "gemini-3.1-flash-lite-preview"
 INPUT_FILE = 'missing.csv'
 OUTPUT_FILE = 'translated_annotated_missing.json'
